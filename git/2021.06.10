@@ -5,12 +5,12 @@ git commit -m " " : make commit message
 git push origin _____ : upload to remote repository
 
 git branch : show branch list
-git checkout 브랜치이름 : choose branch
+git checkout BRANCH_NAME : choose branch
 
 git log : show git log
 git status
 
-git clone 깃허브주소 : repository download (first)
+git clone GITHUB_ADRESS : repository download (first)
 git pull          : repository download
 
 git push origin 브랜치이름  : branch work upload to remote repository
