@@ -1,0 +1,24 @@
+git init : initialize git
+
+git add .
+git commit -m " " : make commit message
+git push origin _____ : upload to remote repository
+
+git branch : show branch list
+git checkout 브랜치이름 : choose branch
+
+git log : show git log
+git status
+
+git clone 깃허브주소 : repository download (first)
+git pull          : repository download
+
+git push origin 브랜치이름  : branch work upload to remote repository
+
+
+
+
+
+
+이번 주에 팀업하면서 익힌 것. 자세한 내용은 나중에 좀더 찾아보면서 공부해야지.
+일단 지금은 오늘차 과제 하자..!
