@@ -1,0 +1,77 @@
+[배운 것]
+
+어제 못 푼 문제 결국 해결..! (코드는 저~밑에)
+
+(1) 2,3 예외 처리
+  # 2,3은 바로 소수로 카운트
+  # 중요: int(2의 제곱근) == int(2**(1/2)) == 1
+  # 중요: int(3의 제곱근) == int(3**(1/2)) == 1
+  
+  # 2,3 예외 처리하지 않으면 
+  # problem 1 : range(start, stop) 범위 오류. start < stop 이어야 함
+  #             2, 3 소수 판별 시 범위 -> range(2, 1+1)
+  #             이 때 start == stop 이 되어 start ~ stop - 1 까지의 수를 가져올 수 없음
+  # problem 2 : 소수 판별은 1과 자기자신 외의 수로 해야 함. 위에서 판별 범위만 가져오면
+  #             2 % 2 == 0 , 2 % 1 == 0
+  #             3 % 2 != 0 , 3 % 1 == 0
+  #            1 또는 자기 자신으로 나누어 나머지가 0이 됨. 소수 판별 안 됨
+
+이것에 더해 예외 처리하는 위치를 바르게 잡아야 한다.
+어제 예외 처리 하고 틀렸던 이유는 이중for문에서 내부for문에 예외 처리했기 때문..
+
+
+
+(2) 시간 초과 -> 아래와 같이 해결 -> python3 시간초과, pypy3 통과
+<before>
+        for num in range(2, int(test_prime**(1/2)) + 1): #위에서 하나씩 가져와 소수 판별. 2~int(제곱근) 활용
+            if test_prime % num == 0:   #소수가 아님. 다음 숫자로
+                break
+            
+            elif num == int(test_prime**(1/2)) and test_prime % num != 0:   #소수 확인 위한 마지막 테스트
+                count_prime += 1    #소수가 맞으니 카운트 +1
+                
+<after>       
+        mission_complete = 1
+        for num in range(2, int(test_prime**(1/2)) + 1): #위에서 하나씩 가져와 소수 판별. 2~int(제곱근) 활용
+            if test_prime % num == 0:   #소수가 아님. 다음 숫자로
+                mission_complete = 0
+                break
+        if mission_complete == 1:
+                count_prime += 1    #소수가 맞으니 카운트 +1
+
+
+
+_____________________________________________________________________________________________________________
+count_prime_list = []   #각 input에서의 소수의 개수
+while (1):
+    inp = int(input())
+    if inp == 0:
+        for i in count_prime_list:
+            print(i)
+        break   #input이 0이면 소수의 수 모두 출력 후 루프 종료
+
+    count_prime = 0
+    for test_prime in range( inp + 1 , 2 * inp + 1 ):   #소수를 찾을 범위 설정(input 활용)
+        
+        #2,3은 바로 소수로 카운트
+        if test_prime in [2,3]:
+            count_prime += 1
+            continue
+        
+        for num in range(2, int(test_prime**(1/2)) + 1): #위에서 하나씩 가져와 소수 판별. 2~int(제곱근) 활용
+            if test_prime % num == 0:   #소수가 아님. 다음 숫자로
+                break
+            
+            elif num == int(test_prime**(1/2)) and test_prime % num != 0:   #소수 확인 위한 마지막 테스트
+                count_prime += 1    #소수가 맞으니 카운트 +1
+
+    count_prime_list.append(count_prime)  #소수의 개수를 리스트에 추가   
+_____________________________________________________________________________________________________________
+
+
+[느낀 것 배운 것]
+예외 처리를 잘 하자..
+이중for문 헷갈릴 수 있으니 주의하자..
+주석 달며 흐름 잡는 거에 좀더 신경을..
+소수 탐색에 range, 제곱근 활용 시 2,3 예외처리하기...!
+비효율적인 코드는 좀더 깔끔하게 할 수 있는 방법을 생각해 보자
