@@ -37,10 +37,11 @@ ______________________________________________________________________________
 ______________________________________________________________________________
 
 
-백준 문제 https://www.acmicpc.net/problem/1934
-->최소공배수 구하는 과정에서 최대공약수 탐색함
+백준 문제 - 최대공약수 최소공배수
+https://www.acmicpc.net/problem/1934
+https://www.acmicpc.net/problem/2609
 
-range 역순 정보 참조 https://lightjean.tistory.com/24
+range 역순 정보 참조  https://lightjean.tistory.com/24
 
 [느낀 것]
 시간 초과 오류가 나기에 range를 역순으로 가져왔더니
