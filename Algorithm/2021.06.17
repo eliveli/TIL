@@ -1,9 +1,7 @@
 [배운 것]
-
-클래스의 내부 함수 만들 때 생성자의 멤버 변수의 값을 재할당하고 유지함. 헷갈릴 수 있으니 유의하자
-   
-   
-______________________________________________      
+- 클래스의 내부 함수 만들 때 생성자의 멤버 변수의 값을 재할당하고 유지함. 헷갈릴 수 있으니 유의하자
+ 
+1.before & after_____________________________
 <before 수정 전 코드>
     def size(self):
         count = 0
@@ -26,14 +24,15 @@ ______________________________________________
 -> after : 함수 내부에서 count_head 생성, 활용    
 
 
-______________________________________________
+
+2.삽질 이유 분석________________________________
 class Stack:
     def __init__(self):
         self.head = None
               .
               .
               
-(1) 수정 후 버전 (맨 위 before after 참고)
+(1) 수정 후 코드 (맨 위 before & after 참고)
     def size(self):                   
         count_head = self.head              # self.head는 Stack의 멤버변수이기에 값을 기억하고 있음. 얘를 바꾸면 안 됨.
         count = 0                           # 그래서 함수 내부에서 노드의 위치를 기억하는 count_head를 일시적으로 따로 만듦
@@ -57,6 +56,64 @@ ______________________________________________
         stack.size() 이후에 실행한 stack.peek() stack.pop() 이 원하는 결과를 가져오지 못함
          (두 함수는 self.head를 활용하기 때문)
    
+
+
+
+
+3. 전체 코드 __________________________________________________________________________________________
+class Node:
+    def __init__(self, value):
+        self.data = value
+        self.next = None
+
+class Stack:            #stack class 및 그 함수 만들기
+    def __init__(self):
+        self.head = None
+
+    def push(self, value):
+        before_node = self.head
+        self.head = Node(value)
+        self.head.next = before_node
+
+    def pop(self):
+        delete_node = self.head
+        self.head = self.head.next
+    
+    def peek(self):
+        if self.head is not None:
+            return self.head.data
+
+    def size(self):
+        count_head = self.head              # self.head는 Stack의 멤버변수이기에 값을 기억하고 있음. 얘를 바꾸면 안 됨.
+        count = 0                           # 그래서 함수 내부에서 노드의 위치를 기억하는 count_head를 일시적으로 따로 만듦
+        while(count_head is not None):
+            count_head = count_head.next
+            count += 1
+        return count
+
+stack = Stack()         #stack 객체 생성
+sum = 0                 #stack 값을 합산 저장할 변수
+
+for i in range(int(input())):     #첫 input 값 만큼 push/pop 명령 수행
+    inp_num = int(input())
+    if inp_num != 0:
+        stack.push(inp_num)       #받은 input이 0이 아니면 push
+    else:
+        stack.pop()               #              0이면 pop
+
+for i in range(stack.size()):      #stack 값 모두 합산
+    sum += stack.peek()
+    stack.pop()
+
+print(sum)                        # 결과 출력
+______________________________________________________________________________________________________
+
+
+
+4. 참조: 백준 문제 https://www.acmicpc.net/problem/10773
+
+
+
 
 [느낀 것] 주절주절 잡소리...
 
