@@ -1,0 +1,69 @@
+[배운 것]
+
+클래스의 내부 함수 만들 때 생성자의 멤버 변수의 값을 재할당하고 유지함. 헷갈릴 수 있으니 유의하자
+   
+   
+______________________________________________      
+<before 수정 전 코드>
+    def size(self):
+        count = 0
+        while(self.head is not None):
+            self.head = self.head.next
+            count += 1
+        return count
+
+                VS
+                
+<after 수정 후 코드>
+    def size(self):
+        count_head = self.head              # self.head는 Stack의 멤버변수이기에 값을 기억하고 있음. 얘를 바꾸면 안 됨.
+        count = 0                           # 그래서 함수 내부에서 노드의 위치를 기억하는 count_head를 일시적으로 따로 만듦
+        while(count_head is not None):
+            count_head = count_head.next
+            count += 1
+        return count
+______________________________________________   
+-> after : 함수 내부에서 count_head 생성, 활용    
+
+
+______________________________________________
+class Stack:
+    def __init__(self):
+        self.head = None
+              .
+              .
+              
+(1) 수정 후 버전 (맨 위 before after 참고)
+    def size(self):                   
+        count_head = self.head              # self.head는 Stack의 멤버변수이기에 값을 기억하고 있음. 얘를 바꾸면 안 됨.
+        count = 0                           # 그래서 함수 내부에서 노드의 위치를 기억하는 count_head를 일시적으로 따로 만듦
+        while(count_head is not None):
+            count_head = count_head.next
+            count += 1
+        return count
+              .
+              .
+              .
+(2)
+for i in range(stack.size()):      #stack 값 모두 합산
+    sum += stack.peek()
+    stack.pop()
+    
+______________________________________________    
+
+-> (2)에서 첫 줄의 stack.size()를 할 때
+    (1)의 수정 전 버전의 경우 count_head를 만들지 않고 멤버변수인 self.head 에 값을 재할당하므로
+       내부 코드의 while문을 탈출했을 때 self.head == None 이 되면서
+        stack.size() 이후에 실행한 stack.peek() stack.pop() 이 원하는 결과를 가져오지 못함
+         (두 함수는 self.head를 활용하기 때문)
+   
+
+[느낀 것] 주절주절 잡소리...
+
+stack의 다른 함수는 self.head의 값을 기억한다는 전제로 구현했는데
+stack.size 함수만 self.head의 값을 None으로 리셋시켰네.
+어차피 size 함수는 마지막에 실행하니 상관없을 거라는 의식의 흐름...?
+size 이후 peek pop 해야 해서 문제가 되었군
+그럼 굳이 peek 안 만들고 pop에서 데이터 바로 가져오는 걸로 놔둬도 되었을 텐데
+오류 찾다고 바꿨음ㅎㅎㅎ 이미 바꾼 것 그냥 두자 ..
+이제 다음 문제 풀러 가야지..............
