@@ -32,7 +32,7 @@
 	- (O) 특정 사진 선택 후 Copy image adress
 	- (X) 앨범 전체 화면에서 왼쪽 마우스 클릭 시  Copy link adress
 
-- 이후 앨범에서 사진을 수정/삭제해도 포스팅했던 이미지는 벼
+- 이후 앨범에서 사진을 수정/삭제해도 포스팅했던 이미지는 변동 없음!
 
 > 와 드디어 해냈다.    
 > 아래 참조 부분을 꼭 클릭해 보시라...! 친절히 설명 잘 해 주심ㅠㅠ    
@@ -125,8 +125,8 @@ https://support.google.com/photos/thread/10444052/problem-uploading-link-for-mar
 <br>
 #### -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTAzMjk0NjksLTQ1Mjg5NTAwNSw5ND
-EwMTM0MTIsNzgyNDEzNzgsNjM1OTkyNTgxLC0xMDE3MTgzNzM5
-LC00NTA0Nzg2MjIsMTg2OTM1ODA2MiwtOTM2MTAyNzAwLDE1MD
-czMTU3MzcsMTgxMDY0NDUwNSw2MTkyOTUwNjldfQ==
+eyJoaXN0b3J5IjpbLTU2NDI1NjUzMywtNDUyODk1MDA1LDk0MT
+AxMzQxMiw3ODI0MTM3OCw2MzU5OTI1ODEsLTEwMTcxODM3Mzks
+LTQ1MDQ3ODYyMiwxODY5MzU4MDYyLC05MzYxMDI3MDAsMTUwNz
+MxNTczNywxODEwNjQ0NTA1LDYxOTI5NTA2OV19
 -->
