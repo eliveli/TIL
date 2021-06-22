@@ -42,7 +42,9 @@ It just told me that 'that is optional' and you don't need to write down in it.
 
 It is so sad that there was no information about it (at least when I searched).
 I am beginner in both GitHub and StackEdit,
-also Korean not English who speaks and reads freely and is easy for getting many information
+also Korean not English who can get many information.
+
+Anyway, I solved it 
 
 
 
@@ -184,7 +186,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDYyNDM4Myw2OTQzMDIzMzAsLTE0OD
-kyNjE1MDUsNDgzODc4MjUxLDQwNDIwMTU0MiwxMDUyMzIxMjU4
-XX0=
+eyJoaXN0b3J5IjpbNDI3Nzc2NDcxLDY5NDMwMjMzMCwtMTQ4OT
+I2MTUwNSw0ODM4NzgyNTEsNDA0MjAxNTQyLDEwNTIzMjEyNThd
+fQ==
 -->
