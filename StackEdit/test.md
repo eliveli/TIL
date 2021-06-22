@@ -15,10 +15,8 @@ so I will write down Korean my mother's language...
 ( + but I didn't. haha....)    
 
 >그런데 글씨체는 한국어보다 영어가 단정하고 예쁘네
- 하 슬프도다..
 덜 예쁜 폰트로 적..으려다 그냥 쭉 영어로 적었는데
- 아 힘들다
-영어 좀 잘했으면
+ 아 힘들다 영어 좀 잘했으면
 
 ## look the word ***MASTER*** 
 
@@ -73,7 +71,7 @@ Anyway, you all have a nice day!
 
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1MTY5NzA2LDE0NDA3Njg3NzIsLTM4Nz
+eyJoaXN0b3J5IjpbODc3ODAxMTY0LDE0NDA3Njg3NzIsLTM4Nz
 IxODk0MCwtMTMyOTM5NjU5LDU2MDE0MzYwNywtMTIzMDc3OTUw
 LC03NDU1MzYzNTUsNjk0MzAyMzMwLC0xNDg5MjYxNTA1LDQ4Mz
 g3ODI1MSw0MDQyMDE1NDIsMTA1MjMyMTI1OF19
