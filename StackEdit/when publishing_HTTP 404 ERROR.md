@@ -15,7 +15,7 @@ so I will write down Korean my mother’s language…<br>
 아 힘들다 영어 좀 잘했으면</p>
 </blockquote>
 <h2 id="look-the-word-master">look the word <em><strong>MASTER</strong></em></h2>
-<img url = "C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%801.PNG" />
+<img url = "https://mybox.naver.com/#/photo/all/viewer/3472439752808264225:5873940/%7B%22thumbUrl%22%3A%22https%3A%2F%2Fthumb1.photo.mybox.naver.com%2F3472439752808264225%3Ftype%3Dm1280_1280_2%26nocache%3D5057021212%22%7D" />
 <p>![click publish to github](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%801.PNG)</p>
 <p>![look the word master](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%802.PNG)</p>
 <p>Look the word and the sentence.</p>
