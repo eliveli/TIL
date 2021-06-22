@@ -17,10 +17,9 @@
 
 ![enter image description here](https://lh3.googleusercontent.com/OK60C6WKs10ebRsL8UOzjLxF37PZfQaFqYtGKaPfRq7oRvwUACX8nHzdGo6r6v4MTyF0C5Sjr0hKkiDJY1ImOs4iOhu-SUpATgTnvbsB6q2-eB9a2YFiwjmjuD-yTVJeuIbniHqcs1wJN_0CbLKwLcQ8FqoQ7rVII0FmGeuA50LlLLjd9woPB7eqesJ1S-QP43ezGNL1gS3ShobtNzmc3V07ASs94YGWvYXrbFLA26_Ipx2PCjZ0J5JFtYwn-kK7x8I2QJyHG97Xw6U2_yPczYm-9jhIXU_WT3NuNhMREd6iqasQ0hugMX4IGZhpgS4rKxtZqlSh29fUOqCXo_KsW-GMdCZCM2YVcuVIFnyN-HWG6wYOjKE2MPsooW1FxCRhTIBkyXW6AWjawATYT-KkOOJb6tXdpUtrKdaWKsT7BRBflmGF-3deMVCuVQ-uZPQmfkcihgABG480e8Z01gVdEmMnrDb80NzErEhh3Nt9SDMXYPsG0hSgI5ZWnOXfMfbkMat4MTxlLPwZTKBiwKhu_Ae2VEggOWeS0Tb-4A96H8Zj50xUfDfeS6x7UjxUg_MLOsqmgmHMtJ4SB1Tm25BsA-cli5P0RC5LXK51dbxZdaSrpNFUI_t-tU-zLQEZmdvJrG-tb31Mp_uFSjR25ak68xYPJBnCgh_fi1l10J9G3nsddowVPjpkrWTByKvYpG49mXQ1sRIQGs9P5DVlzBRlTmQd=w1038-h761-no?authuser=0)
 
-- 주의. 앨범의 전체 사진을 보는 화면이 아님
-- (이렇게 하면 우측 마우스 클릭 시 Copy Link Adress가 보임)
-- 꼭 특정 사진을 선택해서 마우스 왼쪽 버튼을 클릭하기.(Copy Image Adress)
-- 
+- 주의. 이미지 주소를 가져올 때는 특정 사진을 선택해야 함.
+- 앨범의 전체 사진을 보는 화면에서 보이는 건 Copy link adress (X)
+
 
 [참조] https://support.google.com/photos/thread/10444052/problem-uploading-link-for-markdown?hl=en&msgid=14212672
 
@@ -107,7 +106,7 @@
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDYxNDI4Miw2MzU5OTI1ODEsLTEwMT
+eyJoaXN0b3J5IjpbMTgxMTU5NzA0NSw2MzU5OTI1ODEsLTEwMT
 cxODM3MzksLTQ1MDQ3ODYyMiwxODY5MzU4MDYyLC05MzYxMDI3
 MDAsMTUwNzMxNTczNywxODEwNjQ0NTA1LDYxOTI5NTA2OV19
 -->
