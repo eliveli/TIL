@@ -50,7 +50,8 @@
 
 ## + 실패했거나 만족스럽지 못했던 방법
 - 네이버 클라우드(MyBox)
-	>링크 공유에 횟수 제한이 있다.    
+	>이미지를 직접 불러오지 못한다. 링크 클릭해서 연결됨.    
+	> 링크 클릭에 횟수 제한이 있다
 	
 
 - 스택에딧에서 구글 포토 계정 연결
@@ -70,6 +71,6 @@
 <br><br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTc2NDQzLDE1MDczMTU3MzcsMTgxMD
-Y0NDUwNSw2MTkyOTUwNjldfQ==
+eyJoaXN0b3J5IjpbLTE0NTkzMzAwODQsMTUwNzMxNTczNywxOD
+EwNjQ0NTA1LDYxOTI5NTA2OV19
 -->
