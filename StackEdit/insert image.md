@@ -24,7 +24,7 @@
 
 - 주의
 	- (O) 특정 사진 선택 후 Copy image adress
-	- (X) 앨범 전체 화면에서 왼쪽 Copy link adress 가 나옴
+	- (X) 앨범 전체 화면에서 왼쪽 마우스 클릭 시  Copy link adress
 
 
 [참조] https://support.google.com/photos/thread/10444052/problem-uploading-link-for-markdown?hl=en&msgid=14212672
@@ -34,24 +34,22 @@
 - 구글 드라이브에 로컬의 이미지 업로드
 
 ![enter image description here](https://lh3.googleusercontent.com/LhHRnqIPcbjAXjwmDVCPTAjkQR-t-naOOOrCAZHMHSf9F4CsGm4tu5qYwLZ-A83FGfyPZcXfA4VKIBQhVmB7zj6k6opuUcbdV6E3ifmmEsR26IHZOlPUXR7C8Mn7NcrRJ7rki_WZUw=w2400)
-
-
-   
+<br>   
 - 이미지 더블클릭 - 우측 상단에 있는 점 세개  -  ```공유``` 클릭
 
 ![enter image description here](https://drive.google.com/uc?id=1x6JefbzJ3PAXm5tp3F-NTZjRyXglt5ej)
-<br><br>
+<br>
 - ```링크가 있는 모든 사용자로 변경``` (필수인지는 잘 모름)
 -  ```링크 복사``` 
 -  스택에딧 복귀
 
 ![enter image description here](https://drive.google.com/uc?id=1Xse6Lkq8mA3RDY2eq883ZHE1hSA74RDA)
-<br><br>
+<br>
 - 스택에딧, 상단 바 맨 오른쪽 ```이미지삽입아이콘``` 클릭
 - ```링크 붙여 넣기```
 
 ![enter image description here](https://drive.google.com/uc?id=1PG9ZhXxx6HvRcYC3WHt-833v0qSXaac5)
-<br><br>
+<br>
 - url 에서 블럭 잡은 부분 기준
 	>앞쪽 ```file/d``` 지우고 ```uc?id=``` 입력    
 		뒤쪽 ```/view?usp... ```  끝까지 지우면 완료!
@@ -112,7 +110,7 @@
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjUzOTM4OCw2MzU5OTI1ODEsLTEwMT
+eyJoaXN0b3J5IjpbMTE1ODY0MjExOSw2MzU5OTI1ODEsLTEwMT
 cxODM3MzksLTQ1MDQ3ODYyMiwxODY5MzU4MDYyLC05MzYxMDI3
 MDAsMTUwNzMxNTczNywxODEwNjQ0NTA1LDYxOTI5NTA2OV19
 -->
