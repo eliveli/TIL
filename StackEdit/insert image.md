@@ -10,20 +10,24 @@
 
    
 - 이미지 더블클릭 - 우측 상단에 있는 점 세개  -  ```공유``` 클릭
+
 ![enter image description here](https://drive.google.com/uc?id=1x6JefbzJ3PAXm5tp3F-NTZjRyXglt5ej)
 <br><br>
 - ```링크가 있는 모든 사용자로 변경``` (필수인지는 잘 모름)
 -  ```링크 복사``` 
 -  스택에딧 복귀
+
 ![enter image description here](https://drive.google.com/uc?id=1Xse6Lkq8mA3RDY2eq883ZHE1hSA74RDA)
 <br><br>
 - 스택에딧, 상단 바 맨 오른쪽 ```이미지삽입아이콘``` 클릭
 - ```링크 붙여 넣기```
+
 ![enter image description here](https://drive.google.com/uc?id=1PG9ZhXxx6HvRcYC3WHt-833v0qSXaac5)
 <br><br>
 - url 에서 블럭 잡은 부분 기준
 -- 앞쪽 ```file/d``` 지우고 ```uc?id=``` 입력
--- 뒤쪽 ```/view?usp... ```  끝까지 지우면 완료! 
+-- 뒤쪽 ```/view?usp... ```  끝까지 지우면 완료!
+
 ![enter image description here](https://drive.google.com/uc?id=1wWl_j0107m6-FRChXSbvcFS4SGD-Pkmd)
 
 
@@ -65,5 +69,5 @@
 <br><br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjE4NDQzNyw2MTkyOTUwNjldfQ==
+eyJoaXN0b3J5IjpbMTI5ODAwMTQzMyw2MTkyOTUwNjldfQ==
 -->
