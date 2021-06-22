@@ -2,7 +2,7 @@
 
 스택에딧에서 처음 이미지를 첨부한다면 여러 난관에 부딪히게 된다.    
 먼저 내가 성공한 방법부터 소개하겠다.
->	 ~~0번만 보세요. 나머지는 다 버려~~
+>	 ~~0번만 보세요. 나머지는 필요 시 참고~~
 ## (최종) 0. 구글 포토 앨범_이미지 링크 복사 
 - 구글 포토 접속
 - 사진 선택
@@ -17,7 +17,7 @@
 - 주의. 앨범에 추가된 전체 사진을 보는 페이지가 아님.
 - (이렇게 하면 우측 마우스 클릭 시 Copy Link Adress가 보임)
 - 꼭 특정 사진을 선택해서 마우스 왼쪽 버튼을 클릭하기.(Copy Image Adress)
-- 
+- ![enter image description here](https://lh3.googleusercontent.com/8DkJQ_6fH3DdmTmf2ie1F6AGcr6pw1BjtJmWzsi5CYXjkwkJMFEZrWfyZCJn1mx3HroepXnXQ0Kmgqrtlx1LYAJoNrRGoCnVfdDgmm2SVXiVEXmlLQ_VrNgLIN0WJrD5RPtWyOyOiE0gqbBgZE8MYe0xknq_BdfzBRmiCGUF_eoa_pI94vsPaoGcsH0dU-Tn8DwlqwXyU1pdXSStbi24OHzJECncMRFPCRjVCv3EUvaQIgXWkd8s_FHDAQF7xBrUxFeprreVC6s055oG79sD0koJ9vO75q239T-m-TJVGBS9Lkkn3n3WWGEOvmtSgj0NYDvzPk10rAzcBKL2_FuIUjAffP2-XVwC0ccRYaUgIEskj2L0G_ZZhIZYg9yvjOMhvlAh3fedEA6EoQOXP9bGX7hcxadespG83EvoEYYVxrpdaEI_gkH7RdwkxiAlw8Qnf2HpQMCa-1eGM5bTANKGeA3jo0fhD0WpmsXClCstOfJMJPmeLLIuRq4Q9qvhLvsQgUAR60boTv9s_KHOfGmXQv7gZcENIjbjIKd7XRICyST0ETvBJuhtdZCmThomTlr4Jd98I6c3mp1Wl2rNMqeYjU05OP-_-qyo0AAx6_BYC8l4XWOmWx1za-TEbGFBaGBkl2h25ezoMav46W3gZRrXIc65nwXphs0BBNY60mPMylMPuDNLRATorKVk5nSSZYKoUl9HAhaeIxVv7Rdf_ZQ3dqtU=w651-h729-no?authuser=0)
 
 
 
@@ -96,7 +96,7 @@
 	> https://identity.flickr.com/login?redir=%2Fservices%2Foauth%2Fauthorize%3Foauth_token%3D72157719446315071-89c3adbf5c5bf3f0%26perms%3Dwrite
 
 
-![enter image description here](https://lh3.googleusercontent.com/4H92nRZ7faiMB0n4-S0K52i3muXbIvxRxKabwYQnbIdo8_mtqE8BMG_Hy0glOG2_XMhgQK525U_7PCmsjwy9KCWB29EIjbZaSXYwpvNMkHdR-9L-ymZ9AgB6Oe-XQbJgae9JKIIfye7xAqkOvRbTkcsnHMFGktYNYgOz0AoJxtmQwjOBsmkh45o1pXErRpucs3sa5qUxflCofSFBtpC9GUX4gnamOH7nbzYgsRWhPyq39VOGzd5dS66XAkSRLzHxhuYij_88aZGQYOzRRu4LxdEwQJ3qKWwusPfwus-MpFkBkldSVakX-NNbrRWteQecVAn5wn1t5mMrAltbaVFw59t7djwUXnWbNbE6DQBj54JTA4mc0aM9RmtC65Wk0XOKKHZZqFrGcDoIz-TlSuVMiDmEqF1Z0-uPi_3trkJ2L-UtK3loN84NgNBrY6f_Ypztuu_YFrY-ZASIgcX7XSQRkQjRzTS5mnzsFnvFL7tuFvhnuC9P72zS4akb0vyMldEVx-NSasBpMmd6ES-0xzMjI46XjbX9BRhCt9FBiK4M9Z2YpJHGToJ5sZDjqI_p6kWJR9RMyIvYUQhhZv1OuBalr_40qo_y3RGEESiyMojxIo3TzizTcLnD0FcMUL6qdPl562LwLiiM1xkYdOh7WTjjuLTNVPg_GQm7XYGq1Qs0akhAAcT8OC-zksQpx598byj8vMwsWykMb4uKinyfRzufjkq1=w705-h798-no?authuser=0)
+
 ```
 [스택에딧 불편한 점]
 이미지 업로드.
@@ -106,7 +106,7 @@
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDMzNjU4OCwtMTAxNzE4MzczOSwtND
-UwNDc4NjIyLDE4NjkzNTgwNjIsLTkzNjEwMjcwMCwxNTA3MzE1
-NzM3LDE4MTA2NDQ1MDUsNjE5Mjk1MDY5XX0=
+eyJoaXN0b3J5IjpbNjM1OTkyNTgxLC0xMDE3MTgzNzM5LC00NT
+A0Nzg2MjIsMTg2OTM1ODA2MiwtOTM2MTAyNzAwLDE1MDczMTU3
+MzcsMTgxMDY0NDUwNSw2MTkyOTUwNjldfQ==
 -->
