@@ -1,3 +1,8 @@
+---
+
+
+---
+
 <h1 id="http-404-error"><em><strong>HTTP 404 ERROR</strong></em></h1>
 <p>When I tried to publish my file many timesfrom StackEdit to GitHub, <em><strong>http 404 error</strong></em> made me sad.<br>
 Now I have solved the problem, I feel really really happy…!</p>
@@ -11,10 +16,8 @@ so I will write down Korean my mother’s language…<br>
 ( + but I didn’t. haha…)</p>
 <blockquote>
 <p>그런데 글씨체는 한국어보다 영어가 단정하고 예쁘네<br>
-하 슬프도다…<br>
 덜 예쁜 폰트로 적…으려다 그냥 쭉 영어로 적었는데<br>
-아 힘들다<br>
-영어 좀 잘했으면</p>
+아 힘들다 영어 좀 잘했으면</p>
 </blockquote>
 <h2 id="look-the-word-master">look the word <em><strong>MASTER</strong></em></h2>
 <p>![click publish to github](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%801.PNG)</p>
