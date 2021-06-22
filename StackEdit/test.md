@@ -2,7 +2,7 @@
 When I tried to publish my file from StackEdit to GitHub, 'http 404 error' made me sad.
 And now I have solved the problem, I feel really really happy...!
 
-In short, the reason the
+In short, the reason I took the trouble is 
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -141,5 +141,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0MjAxNTQyLDEwNTIzMjEyNThdfQ==
+eyJoaXN0b3J5IjpbODg1MTA0NTEzLDQwNDIwMTU0MiwxMDUyMz
+IxMjU4XX0=
 -->
