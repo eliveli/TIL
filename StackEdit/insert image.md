@@ -67,13 +67,17 @@
 	> 기간 제한이 있는 경우    
 	기간 제한은 없으나 클릭해도 웹사이트가 계속 로딩 중인 경우(Aㅏ...)
 
-	![enter image description here](http://naver.me/xrP3SejK)
 
 
-+ 왜 또 깃헙
-<br><br>
+
+스택에딧 불편한 점:
+이미지 업로드.
+이미지 크기 설정 안 됨.
+서버에 올린 이
+ 왜 또 깃허브에 이미지가 보이지 않는 거지.. 스택에딧에서는 프리뷰로 잘 보이는데 하...
+<br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTQ4OTA0LDE1MDczMTU3MzcsMTgxMD
-Y0NDUwNSw2MTkyOTUwNjldfQ==
+eyJoaXN0b3J5IjpbLTEyMTQ3MTk4MjAsMTUwNzMxNTczNywxOD
+EwNjQ0NTA1LDYxOTI5NTA2OV19
 -->
