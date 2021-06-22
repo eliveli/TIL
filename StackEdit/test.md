@@ -28,7 +28,8 @@ Look the word and the sentence.
 > ```Branch — optional```  
 If not supplied, the ```master``` branch will be used.
 
-
+optional manes not optional..
+If your repository branch name is 'main', you will take 
 
 
 
@@ -169,6 +170,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTM3NzE3MCwtMTQ4OTI2MTUwNSw0OD
+eyJoaXN0b3J5IjpbMTczNDk5NTM4OSwtMTQ4OTI2MTUwNSw0OD
 M4NzgyNTEsNDA0MjAxNTQyLDEwNTIzMjEyNThdfQ==
 -->
