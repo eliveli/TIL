@@ -12,12 +12,13 @@ In the below I write down the process I met the problem and solved it.
 ...
 Writing English is not easy for me
 so I will write down Korean my mother's language...
+( + but I didn't. haha....)
 
 >그런데 글씨체는 한국어보다 영어가 단정하고 예쁘네
  하 슬프도다..
 덜 예쁜 폰트로 적..으려다 그냥 쭉 영어로 적었는데
  아 힘들다
-영어 좀 잘했으면 엉엉
+영어 좀 잘했으면
 
 ## look the word ***MASTER*** 
 
@@ -72,8 +73,8 @@ Anyway, you all have a nice day!
 
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5ODA1ODEwLC0xMzI5Mzk2NTksNTYwMT
-QzNjA3LC0xMjMwNzc5NTAsLTc0NTUzNjM1NSw2OTQzMDIzMzAs
-LTE0ODkyNjE1MDUsNDgzODc4MjUxLDQwNDIwMTU0MiwxMDUyMz
-IxMjU4XX0=
+eyJoaXN0b3J5IjpbLTM4NzIxODk0MCwtMTMyOTM5NjU5LDU2MD
+E0MzYwNywtMTIzMDc3OTUwLC03NDU1MzYzNTUsNjk0MzAyMzMw
+LC0xNDg5MjYxNTA1LDQ4Mzg3ODI1MSw0MDQyMDE1NDIsMTA1Mj
+MyMTI1OF19
 -->
