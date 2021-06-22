@@ -7,6 +7,8 @@ In short, the reason I took the trouble is about the ***branch***.
 Usaually simple is not simple, is something difficult for someone
 and that is me haha :)
 
+
+
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
 ## Create files and folders
@@ -144,6 +146,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjIzNDMxMTIsNDA0MjAxNTQyLDEwNT
+eyJoaXN0b3J5IjpbLTE5NzQ4MTkwNTIsNDA0MjAxNTQyLDEwNT
 IzMjEyNThdfQ==
 -->
