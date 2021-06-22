@@ -16,12 +16,17 @@ so I will write down Korean my mother's language...
 >그런데 글씨체는 한국어보다 영어가 단정하고 예쁘네
  하 슬프도다..
 아래는 덜 예쁜 폰트로 적은 것
-## Clicking 'Publish to GitHub'
+## Clicking 'Publish to GitHub
+
 
 ![click publish to github](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%801.PNG)
 
 
-![look the ](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%802.PNG) 
+
+
+
+
+![look the word master](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%802.PNG) 
 
 
 
@@ -164,11 +169,11 @@ C --> D
 ```
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJjOXVRdFM4MWZURU5jbVV5Ijp7In
-N0YXJ0Ijo3ODMsImVuZCI6NzgxLCJ0ZXh0IjoidSJ9fSwiY29t
+N0YXJ0Ijo3OTgsImVuZCI6Nzk2LCJ0ZXh0IjoidSJ9fSwiY29t
 bWVudHMiOnsiUnlXWGdWWU5VcVNCVFh0UiI6eyJkaXNjdXNzaW
 9uSWQiOiJjOXVRdFM4MWZURU5jbVV5Iiwic3ViIjoiZ286MTA1
 Mzg3MDIwMjY4MDk5MTYxNDY5IiwidGV4dCI6Imxvb2sgXCJtYX
 N0ZXJcIiIsImNyZWF0ZWQiOjE2MjQzMzA5NjY2MjV9fSwiaGlz
-dG9yeSI6Wy0yMDg5MjI4MDc1LC0xNDg5MjYxNTA1LDQ4Mzg3OD
+dG9yeSI6Wy0xMjA3NDYzOTQyLC0xNDg5MjYxNTA1LDQ4Mzg3OD
 I1MSw0MDQyMDE1NDIsMTA1MjMyMTI1OF19
 -->
