@@ -45,6 +45,8 @@ I am beginner in both GitHub and StackEdit,
 also Korean not English who speaks and reads freely...
 
 
+
+
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
 ## Create files and folders
@@ -182,7 +184,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTkwNzA2Niw2OTQzMDIzMzAsLTE0OD
+eyJoaXN0b3J5IjpbLTM4NTExMDQzMCw2OTQzMDIzMzAsLTE0OD
 kyNjE1MDUsNDgzODc4MjUxLDQwNDIwMTU0MiwxMDUyMzIxMjU4
 XX0=
 -->
