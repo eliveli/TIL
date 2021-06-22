@@ -3,7 +3,8 @@
 스택에딧에서 처음 이미지를 첨부한다면 여러 난관에 부딪히게 된다.
 먼저 내가 성공한 방법부터 소개하겠다.
 ## 1. 구글 드라이브 링크 공유
-구글 드라이브에 로컬의 이미지 업로드
+- 구글 드라이브에 로컬의 이미지 업로드
+
 ![enter image description here](https://lh3.googleusercontent.com/LhHRnqIPcbjAXjwmDVCPTAjkQR-t-naOOOrCAZHMHSf9F4CsGm4tu5qYwLZ-A83FGfyPZcXfA4VKIBQhVmB7zj6k6opuUcbdV6E3ifmmEsR26IHZOlPUXR7C8Mn7NcrRJ7rki_WZUw=w2400)
 
 
@@ -64,5 +65,5 @@
 <br><br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTEzMzgyODgsNjE5Mjk1MDY5XX0=
+eyJoaXN0b3J5IjpbLTkzMjE4NDQzNyw2MTkyOTUwNjldfQ==
 -->
