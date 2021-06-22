@@ -6,6 +6,7 @@
 ## (최종) 0. 구글 포토 앨범_이미지 링크 복사 
 - 구글 포토 접속
 - 사진 선택
+- ![enter image description here](https://lh3.googleusercontent.com/G_3gjuinnk4ovyqhi-LOr2TFZ-CTRwiAyiXXdlL80VLz-9K7qMzzLUW36yTV43PWXFQkro1sjdzcb7KaIwcALfib-Oln8aTIhnbEegmnA92A7FiZRh7Me_Oc870fNWPKJyJpxzsNsbfTZoKvyEe86J1OzmLP1C8D-KK_QQr8GpDdEDoyykbOhMiBesol8oMKvfgrXjyaks3jtYjFcDqFBvahS79ki3M0SajzFUYjnzNdC2Mcue80j_KR6hc1RPUgFt0EtRfbar15zDj0UP9XfExkxf3uCIWM5eKc6gYwk9L7Rgfcl1KMWh3vcZU4S3sB4T3vq4bi3rhC6bPkhz5p22NVdKmHYzM5VnOvALMyNsXFg8s5ucgXVZ7Vx24CRmtFSKfkyrrneY8u4BPJKpks5NYs2Jm_Lxv-6HM02_t1U5EVNOCAsFIX3EdwPOK3hZs1lGSQc28fGFXEFh0OYYR4bB0_W1tFIzrNplNHdeyJVwdWY-EPgKVRKaB4IIO7WR8kdWO297vgxpfZMST30syca_deKoOxs_24dAlrbKM2lAR8zTwX2oWov2kmgzryH5yY7Cq_Htp_CnssUuqZ63PAoV0GUbsxigYoThSqB23tuw-O21xd1zg5s6-Pp4cdBukg-Ankx675k_2H9VIG-ulYKBJo7fdL8gltk_beMHyR3q03NmtJRO9iPwJddfS8J4iIBYmQuPYQWkohPYDnR4NZfzEc=w1020-h925-no?authuser=0)
 - 우측 상단 점 세개
 - ```앨범에 추가```
 - 사진 추가할 앨범 선택
@@ -106,7 +107,8 @@
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1OTkyNTgxLC0xMDE3MTgzNzM5LC00NT
-A0Nzg2MjIsMTg2OTM1ODA2MiwtOTM2MTAyNzAwLDE1MDczMTU3
-MzcsMTgxMDY0NDUwNSw2MTkyOTUwNjldfQ==
+eyJoaXN0b3J5IjpbLTEzMDY2MjQ1MDUsNjM1OTkyNTgxLC0xMD
+E3MTgzNzM5LC00NTA0Nzg2MjIsMTg2OTM1ODA2MiwtOTM2MTAy
+NzAwLDE1MDczMTU3MzcsMTgxMDY0NDUwNSw2MTkyOTUwNjldfQ
+==
 -->
