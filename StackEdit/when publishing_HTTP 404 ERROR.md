@@ -15,8 +15,8 @@ so I will write down Korean my mothers language…<br>
 아 힘들다 영어 좀 잘했으면</p>
 </blockquote>
 <h2 id="look-the-word-master"look the word <em><strong>MASTER</strong></em></h2>
-<p><img src="https://.googleIh2i" alt="click publish to github"></p>
-<p><img src="usercontent.com/uc?id=1hlbmEkal1vPVBdUyuOgZQNu5gtqVIh2iehttps://lh3.google alt="look the word master"></p>
+<p><img src="" alt="click publish to github"></p>
+<p><img src="" alt="look the word master"></p>
 <p>usercontent.com/uc?id=1Nft2WtonQZwj6aLVoAMrEzcOcqZROIM_) 
 
 
@@ -76,5 +76,5 @@ Anyway, you all have a nice day!</p>
 -2021.06.22-</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ4OTQyOTc3LDIxMzg2NTU2OTVdfQ==
+eyJoaXN0b3J5IjpbMTY1NjQ1OTY1NiwyMTM4NjU1Njk1XX0=
 -->
