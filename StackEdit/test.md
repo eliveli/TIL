@@ -4,7 +4,8 @@ And now I have solved the problem, I feel really really happy...!
 
 In short, the reason I took the trouble is about the ***branch***.
 
-Som
+Usaually simple is not simple, is something difficult for someone
+and that is me haha :)
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -143,6 +144,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwMzU1OTA2LDQwNDIwMTU0MiwxMDUyMz
-IxMjU4XX0=
+eyJoaXN0b3J5IjpbLTE1NjIzNDMxMTIsNDA0MjAxNTQyLDEwNT
+IzMjEyNThdfQ==
 -->
