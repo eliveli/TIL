@@ -19,7 +19,7 @@ so I will write down Korean my mother's language...
  아 힘들다 영어 좀 잘했으면
 
 ## look the word ***MASTER*** 
-
+![enter image description here](https://mybox.naver.com/#/photo/all/viewer/3472439752808264225:5873940/%7B%22thumbUrl%22:%22https://thumb1.photo.mybox.naver.com/3472439752808264225?type=m1280_1280_2&nocache=5057021212%22%7D)
 
 ![click publish to github](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%801.PNG)
 
@@ -71,8 +71,9 @@ Anyway, you all have a nice day!
 
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3ODAxMTY0LDE0NDA3Njg3NzIsLTM4Nz
-IxODk0MCwtMTMyOTM5NjU5LDU2MDE0MzYwNywtMTIzMDc3OTUw
-LC03NDU1MzYzNTUsNjk0MzAyMzMwLC0xNDg5MjYxNTA1LDQ4Mz
-g3ODI1MSw0MDQyMDE1NDIsMTA1MjMyMTI1OF19
+eyJoaXN0b3J5IjpbMTgxMjYzNTYyLDg3NzgwMTE2NCwxNDQwNz
+Y4NzcyLC0zODcyMTg5NDAsLTEzMjkzOTY1OSw1NjAxNDM2MDcs
+LTEyMzA3Nzk1MCwtNzQ1NTM2MzU1LDY5NDMwMjMzMCwtMTQ4OT
+I2MTUwNSw0ODM4NzgyNTEsNDA0MjAxNTQyLDEwNTIzMjEyNThd
+fQ==
 -->
