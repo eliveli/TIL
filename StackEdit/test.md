@@ -21,7 +21,7 @@ so I will write down Korean my mother's language...
 ## look the word ***MASTER*** 
 ![click publish to github](https://drive.google.com/file/d/1hlbmEkal1vPVBdUyuOgZQNu5gtqVIh2i/view?usp=sharing)
 
-![look the word master](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%802.PNG) 
+![look the word master](https://drive.google.com/file/d/1Nft2WtonQZwj6aLVoAMrEzcOcqZROIM_/view?usp=sharing) 
 
 
 Look the word and the sentence.
@@ -32,7 +32,7 @@ optional means not optional..
 If your repository branch name is 'main', you will see the alert below.
 ***HTTP 404 ERROR***
 
-![http 404 error](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%803.PNG)
+![http 404 error](https://drive.google.com/file/d/1KIEbPQiNf-3yuTX3nq7KOOtI8Oy02Cqy/view?usp=sharing)
 
 In my case, I never had changed my branch name,  ***main*** the default name.
 And when I tried to get ```how to use StackEdit``` in my mother's language,
@@ -69,5 +69,5 @@ Anyway, you all have a nice day!
 
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4ODM0MzgyLDE2NzE2MzYzOTFdfQ==
+eyJoaXN0b3J5IjpbLTgwNTAyNjY0NSwxNjcxNjM2MzkxXX0=
 -->
