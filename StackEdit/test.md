@@ -36,7 +36,7 @@ If your repository branch name is 'main', you will see the alert below.
 ![http 404 error](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%803.PNG)
 
 In my case, I never had changed my branch name,  ***main*** the default name.
-And when I searched for ```how to use StackEdit```,
+And when I searched for ```how to use StackEdit``` in my mother's language,
 there were no info about it.
 It just told me that 'that is optional' and you don't need to write down in it.
 
@@ -44,8 +44,8 @@ How sad it is...!
 I am beginner in both GitHub and StackEdit,
 and also Korean not English who can get many information...
 
-Anyway, I could solve it for two method
-
+Anyway, I could solve it for two method.
+First thing is that to input your main branch
 
 
 
@@ -187,7 +187,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjE3MDU0NDIsLTc0NTUzNjM1NSw2OT
-QzMDIzMzAsLTE0ODkyNjE1MDUsNDgzODc4MjUxLDQwNDIwMTU0
-MiwxMDUyMzIxMjU4XX0=
+eyJoaXN0b3J5IjpbNDUxNTk2MjA2LC03NDU1MzYzNTUsNjk0Mz
+AyMzMwLC0xNDg5MjYxNTA1LDQ4Mzg3ODI1MSw0MDQyMDE1NDIs
+MTA1MjMyMTI1OF19
 -->
