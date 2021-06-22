@@ -48,11 +48,11 @@ Anyway, I could solve it in two ways.
 ##  branch ***main*** on StackEdit
 First thing is to input your branch name default ***main*** on StackEdit.
 (If the name is not main, type your own name.)
-![input your branch name correctly](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%804.PNG)
+![input your branch name correctly](https://drive.google.com/file/d/1hKJqAd9D_eGzXFfZadYwZjylEBKil3sm/view?usp=sharing)
 
 ## branch ***master*** on GitHub
 Second is changing your branch name to ***master*** on GitHub.
-![change you branch name](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%805.PNG)
+![change you branch name](https://drive.google.com/file/d/11knVBfY5EFLd5qYJXXsPNlGq7a3zI4Rx/view?usp=sharing)
 In your repository, follow the steps.
 >``` Setting > Branches > pencil icon (inside the box) > type "master" > click "Rename branch" ```
 >
@@ -69,5 +69,5 @@ Anyway, you all have a nice day!
 
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTAyNjY0NSwxNjcxNjM2MzkxXX0=
+eyJoaXN0b3J5IjpbMTM4MDk4Nzc5NiwxNjcxNjM2MzkxXX0=
 -->
