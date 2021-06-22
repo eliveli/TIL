@@ -37,7 +37,9 @@ If your repository branch name is 'main', you will see the alert
 In my case, I never had changed my repository branch name,  ***main*** the default name.
 And when I searched and get some information about ```how to use StackEdit```,
 there were no info about it.
-They just told me that 'that is optional' and you don't need to 
+They just told me that 'that is optional' and you don't need to write down in it.
+
+It is so sad that there was no information (at least 
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -176,7 +178,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTU3NTg0OTcsNjk0MzAyMzMwLC0xND
+eyJoaXN0b3J5IjpbLTEzMjEwNTUyMDgsNjk0MzAyMzMwLC0xND
 g5MjYxNTA1LDQ4Mzg3ODI1MSw0MDQyMDE1NDIsMTA1MjMyMTI1
 OF19
 -->
