@@ -5,7 +5,11 @@
 >	 ~~0번만 보세요. 나머지는 필요 시 참고~~
 ## (최종) 0. 구글 포토 앨범_이미지 링크 복사 
 - 구글 포토 접속
-- 앨범을 마
+- 앨범을 만들어 사진 추가
+- 선택된 앨범에 보이는 사진 중 하나 선택
+- 오른쪽마우스 크
+- Copy image adress
+- 스택에딧에서 이미지 아이콘을 클릭해 붙여넣기
 
 
 ![enter image description here](https://lh3.googleusercontent.com/G_3gjuinnk4ovyqhi-LOr2TFZ-CTRwiAyiXXdlL80VLz-9K7qMzzLUW36yTV43PWXFQkro1sjdzcb7KaIwcALfib-Oln8aTIhnbEegmnA92A7FiZRh7Me_Oc870fNWPKJyJpxzsNsbfTZoKvyEe86J1OzmLP1C8D-KK_QQr8GpDdEDoyykbOhMiBesol8oMKvfgrXjyaks3jtYjFcDqFBvahS79ki3M0SajzFUYjnzNdC2Mcue80j_KR6hc1RPUgFt0EtRfbar15zDj0UP9XfExkxf3uCIWM5eKc6gYwk9L7Rgfcl1KMWh3vcZU4S3sB4T3vq4bi3rhC6bPkhz5p22NVdKmHYzM5VnOvALMyNsXFg8s5ucgXVZ7Vx24CRmtFSKfkyrrneY8u4BPJKpks5NYs2Jm_Lxv-6HM02_t1U5EVNOCAsFIX3EdwPOK3hZs1lGSQc28fGFXEFh0OYYR4bB0_W1tFIzrNplNHdeyJVwdWY-EPgKVRKaB4IIO7WR8kdWO297vgxpfZMST30syca_deKoOxs_24dAlrbKM2lAR8zTwX2oWov2kmgzryH5yY7Cq_Htp_CnssUuqZ63PAoV0GUbsxigYoThSqB23tuw-O21xd1zg5s6-Pp4cdBukg-Ankx675k_2H9VIG-ulYKBJo7fdL8gltk_beMHyR3q03NmtJRO9iPwJddfS8J4iIBYmQuPYQWkohPYDnR4NZfzEc=w1020-h925-no?authuser=0)
@@ -112,8 +116,7 @@
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjMwOTU3NDIsNjM1OTkyNTgxLC0xMD
-E3MTgzNzM5LC00NTA0Nzg2MjIsMTg2OTM1ODA2MiwtOTM2MTAy
-NzAwLDE1MDczMTU3MzcsMTgxMDY0NDUwNSw2MTkyOTUwNjldfQ
-==
+eyJoaXN0b3J5IjpbLTc5NjkwMjM0Nyw2MzU5OTI1ODEsLTEwMT
+cxODM3MzksLTQ1MDQ3ODYyMiwxODY5MzU4MDYyLC05MzYxMDI3
+MDAsMTUwNzMxNTczNywxODEwNjQ0NTA1LDYxOTI5NTA2OV19
 -->
