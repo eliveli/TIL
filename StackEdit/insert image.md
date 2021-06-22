@@ -2,7 +2,8 @@
 
 스택에딧에서 처음 이미지를 첨부한다면 여러 난관에 부딪히게 된다.    
 먼저 내가 성공한 방법부터 소개하겠다.
-## 0. 구글 포토 앨범_이미지 링크 복사 (최종)
+	 ~~0번만 보세요. 나머지는 다 버려~~
+## (최종) 0. 구글 포토 앨범_이미지 링크 복사 
 
 
 
@@ -10,7 +11,7 @@
 [참조] https://support.google.com/photos/thread/10444052/problem-uploading-link-for-markdown?hl=en&msgid=14212672
 
 
-## 1. 구글 드라이브 링크 공유
+## ~~1. 구글 드라이브 링크 공유~~
 - 구글 드라이브에 로컬의 이미지 업로드
 
 ![enter image description here](https://lh3.googleusercontent.com/LhHRnqIPcbjAXjwmDVCPTAjkQR-t-naOOOrCAZHMHSf9F4CsGm4tu5qYwLZ-A83FGfyPZcXfA4VKIBQhVmB7zj6k6opuUcbdV6E3ifmmEsR26IHZOlPUXR7C8Mn7NcrRJ7rki_WZUw=w2400)
@@ -40,7 +41,7 @@
 
 
 [참조] https://wemakepricepartner.tistory.com/132
-## 2. 구글 포토 링크 공유
+## ~~2. 구글 포토 링크 공유~~
 구글 포토 공유는 구글 드라이브 공유와 앞 부분은 유사하다.
 - 구글 포토에 사진 업로드
 - 사진 선택, 좌측 상단의 공유 아이콘
@@ -86,7 +87,7 @@
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTE5OTIxMywxODY5MzU4MDYyLC05Mz
+eyJoaXN0b3J5IjpbLTE4NjcyNDMyOSwxODY5MzU4MDYyLC05Mz
 YxMDI3MDAsMTUwNzMxNTczNywxODEwNjQ0NTA1LDYxOTI5NTA2
 OV19
 -->
