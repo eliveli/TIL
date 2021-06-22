@@ -46,12 +46,12 @@ and also Korean not English who can get many information easy...
 
 
 Anyway, I could solve it in two ways.
-##  branch name on StackEdit
-First thing is that to input your branch name correctly on StackEdit.
+##  branch ***main*** on StackEdit
+First thing is that to input your branch deault ***main*** on StackEdit.
 (If the name is default ***main***, type it.)
 ![input your branch name correctly](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%804.PNG)
 
-## branch name to ***master*** on GitHub
+## branch ***master*** on GitHub
 Second is changing your branch name to ***master*** on GitHub.
 ![change you branch name](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%805.PNG)
 In your repository, follow the stage.
@@ -198,7 +198,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTg1OTUyMyw1NjAxNDM2MDcsLTEyMz
+eyJoaXN0b3J5IjpbMTUxMzk1ODU2NSw1NjAxNDM2MDcsLTEyMz
 A3Nzk1MCwtNzQ1NTM2MzU1LDY5NDMwMjMzMCwtMTQ4OTI2MTUw
 NSw0ODM4NzgyNTEsNDA0MjAxNTQyLDEwNTIzMjEyNThdfQ==
 -->
