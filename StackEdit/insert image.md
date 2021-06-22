@@ -9,9 +9,10 @@
 - 우측 상단 점 세개
 - ```앨범에 추가```
 - 사진 추가할 앨범 선택
-- 앨범에
+- 앨범에 들어가기
+- 앨범에서 특정 사진 선택(
 
-![enter image description here](https://photos.google.com/album/AF1QipPKsWsSSO7M9-2SOA5RBqH4fICKH1sZ0Gbl4UQX/photo/AF1QipPhttNqt4YTE3sk6OUmIwgjmROOw0evG5IHt4Ip)
+
 
 [참조] https://support.google.com/photos/thread/10444052/problem-uploading-link-for-markdown?hl=en&msgid=14212672
 
@@ -98,7 +99,7 @@
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDIwMDI0OSwtNDUwNDc4NjIyLDE4Nj
-kzNTgwNjIsLTkzNjEwMjcwMCwxNTA3MzE1NzM3LDE4MTA2NDQ1
-MDUsNjE5Mjk1MDY5XX0=
+eyJoaXN0b3J5IjpbLTIwNzQ1MDM2MzgsLTQ1MDQ3ODYyMiwxOD
+Y5MzU4MDYyLC05MzYxMDI3MDAsMTUwNzMxNTczNywxODEwNjQ0
+NTA1LDYxOTI5NTA2OV19
 -->
