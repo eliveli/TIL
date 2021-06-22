@@ -26,12 +26,11 @@
 	- (O) 특정 사진 선택 후 Copy image adress
 	- (X) 앨범 전체 화면에서 왼쪽 마우스 클릭 시  Copy link adress
 
-
-
-와 드디어 해냈다.
-아래 참조 부분을 꼭 클릭해 보시라...! 친절히 설명 잘 해 주심ㅠㅠ
-(구글 포토에서 이미지를 못 가져온 건 임베드 기능이 ㅇ
-[참조] https://support.google.com/photos/thread/10444052/problem-uploading-link-for-markdown?hl=en&msgid=14212672
+<br>
+와 드디어 해냈다.<br>
+아래 참조 부분을 꼭 클릭해 보시라...! 친절히 설명 잘 해 주심ㅠㅠ<br>
+(구글 포토에서 이미지를 못 가져온 건 임베드 기능이 없어서구나.. 앨범으로는 가능해서 다행이다ㅎㅎ)<br><br>
+[참조] [enter link description here](https://support.google.com/photos/thread/10444052/problem-uploading-link-for-markdown?hl=en&msgid=14212672)
 
 
 ## ~~1. 구글 드라이브 링크 공유~~
@@ -113,7 +112,8 @@
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMjYwODE3MCw2MzU5OTI1ODEsLTEwMT
-cxODM3MzksLTQ1MDQ3ODYyMiwxODY5MzU4MDYyLC05MzYxMDI3
-MDAsMTUwNzMxNTczNywxODEwNjQ0NTA1LDYxOTI5NTA2OV19
+eyJoaXN0b3J5IjpbLTE3NzgwNDA5NDksNjM1OTkyNTgxLC0xMD
+E3MTgzNzM5LC00NTA0Nzg2MjIsMTg2OTM1ODA2MiwtOTM2MTAy
+NzAwLDE1MDczMTU3MzcsMTgxMDY0NDUwNSw2MTkyOTUwNjldfQ
+==
 -->
