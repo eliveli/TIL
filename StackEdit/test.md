@@ -40,7 +40,8 @@ there were no info about it.
 They just told me that 'that is optional' and you don't need to write down in it.
 
 It is so sad that there was no information about it (at least when I searched).
-I 
+I am beginner both GitHub and StackEdit,
+also I am a Korean not English who speaks and reads 
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -179,7 +180,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQ4NTUwNCw2OTQzMDIzMzAsLTE0OD
-kyNjE1MDUsNDgzODc4MjUxLDQwNDIwMTU0MiwxMDUyMzIxMjU4
-XX0=
+eyJoaXN0b3J5IjpbLTE3MzQ2NTU3NDQsNjk0MzAyMzMwLC0xND
+g5MjYxNTA1LDQ4Mzg3ODI1MSw0MDQyMDE1NDIsMTA1MjMyMTI1
+OF19
 -->
