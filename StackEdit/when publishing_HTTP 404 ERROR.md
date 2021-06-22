@@ -25,7 +25,7 @@ If not supplied, the <code>master</code> branch will be used.</p>
 <p>optional means not optional…<br>
 If your repository branch name is ‘main’, you will see the alert below.<br>
 <em><strong>HTTP 404 ERROR</strong></em></p>
-<p>![http 404 error](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%803.PNG)</p>
+<p>![http 404 error](https://drive.google.com/file/d/1KIEbPQiNf-3yuTX3nq7KOOtI8Oy02Cqy/view?usp=sharing)</p>
 <p>In my case, I never had changed my branch name,  <em><strong>main</strong></em> the default name.<br>
 And when I tried to get <code>how to use StackEdit</code> in my mother’s language,<br>
 there were no info about it.<br>
