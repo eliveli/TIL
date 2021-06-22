@@ -110,7 +110,7 @@ https://support.google.com/photos/thread/10444052/problem-uploading-link-for-mar
 	> 기간 제한이 있는 경우    
 	기간 제한은 없으나 클릭해도 웹사이트가 계속 로딩 중인 경우(Aㅏ...)
 - 구글 안내서 + flickr 
-	>포스팅 상단 0번 방법으로 해결 ~~아래는 중도 포기~~
+	> ~~포스팅 상단 0번 방법으로 해결했기에 이 방법은 중도 포기~~
 	
 	> https://support.google.com/accounts/answer/9666875?hl=en    
 	
