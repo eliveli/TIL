@@ -21,8 +21,8 @@ so I will write down Korean my mothers language…<br>
 </blockquote>
 <h2 id="look-the-word-master"look the word <em><strong>MASTER</strong></em></h2>
 <p><img src="https://.googleIh2i" alt="click publish to github"></p>
-<p><img src="usercontent.com/ekMbwQsVD9RvNc80F-KUIAYhtUvJwpRooclX1YPdgDX_wkiovj01JonITAK3ynyFOBWsQXBEaNpRqMLJKYxllPh45ziZv6538_6HVRZ43x210i7OkqxEESKghPK5Hxhr7XgShiqWHKGq9wXsS_UjRU5oXo7hL3WL5kLTkZx8jvBnU4A0FEqATC1ySW-et2KuimoypNW8e4FCqo7WUcIw7t5d8m3Es7___E08CECtCIsP_Wms6Un34KLRwXKTuM5ehptU8qGTyjc7k5E7LQYQSuqx4982Eah8QcV_WyuomlHLTSrdc_arpbJ8a3_l_irC9VeULChn8QBQCsnYSsGGPy3yXzPIxU6srfVzYkRaUqst8cWq_A9yUQ2XGxL2enEfjGn4cLF3g2ohgMmDsTuEGpSefPtXfoFi4_Jt49kS2gIJIGyteG9kjaQScHqps7ivcTyaDGJiAXPRPbrJavpMvfsSABJcTOdVx20wAZ0h-S4TX4Z6jxRcvkcQDiPFgBMiwxvu5P3hjLI4gQ9T7OC_8GqznQOTTvo_5P1eX9bvVMoSYtKuujxgoOSDc0k5YVJM28cTH5FE5lOBMRpkRkS1DOneH3Vt05gMPp3pe8nri1sDQTTQ5C6B2T8pw1rMskLoz4XvR3zly5ZvgNCieCbjUlaOfeXJgRsP_TTw8uCiXjVIWgUYrMGGPInsmWJng2Zc1jjhdAQa0ZKm3XybHK_w6KyI=w282-h512-no?authusehttps://lh3.google alt="look the word master"></p>
-<p>usercontent.com/QSFjQOujsXMkZfTTV8UYz5jYZLhfm9HG2m1_HcgIvARslPeuqL0WFGWrZJZdOn4AY1dnwX1oXHKQ9SGJlyst4mtZE1OjVm3ci4zdhWVKk2anwPWlJX0jtoS3jrDMPNIMDd8JC7-UhNCgLxIoRza92uoQOFOhxox-hcfVIBvoPxtQA1fDAiKJDiT_0cy5taMLOeuyNNJbDUvQHxy_0Ff-XKlSMShoAD8pismrRcocBVufUyM-IuVSFiRB4maeg8g_cmIX4Dx4MQjaONc-26CdtONEAPsh5CcgqTJxFJIzSLfo0qqE18XkWqd3TgkaywdO4MxSvCKr_DQfs_qLZg3e-Giz5eMXmYL6YpjGo2oYgcZ18uAGccX-1s81iYiZH_R7N13j06KDNxW1n67LsXHMASLrGx_Gwo6rtpyEN4fuNcXDf82uqzUDKX9xkdAepTIiG6-fxAnj9UQIehZd994jLbQynC9TJb6GEXkFi6zQVVK4XvVWd4TZ4z7alT2VtxgrhU42ktPWH-zkeo3x_OMQ8mEOKw29t030oISrwPntZ-F2BWSj4v7j-SrXrTGQAgiwPedAwCrtWFF1lRVxtNeUuvviEqLcN4_NkCI_kwVAQ0YtwJ5DUPQ54IfILqjoGBU8thk6a8WmteGpVpafDK3In4cf0YDwwL7p3c_dJiKt9WMtYpsMGp5aOTMVl5qgeRfRJj_r0Y0xvn3vaae9msVT196-=w464-h663-no?authuser=0) 
+<p><img src="usercontent.com/uc?id=1hlbmEkal1vPVBdUyuOgZQNu5gtqVIh2iehttps://lh3.google alt="look the word master"></p>
+<p>usercontent.com/uc?id=1Nft2WtonQZwj6aLVoAMrEzcOcqZROIM_) 
 
 
 Look the word and the sentence.</p>
@@ -34,7 +34,7 @@ If not supplied, the <code>master</code> branch will be used.</p>
 If your repository branch name is ‘main, you will see the alert below.<br>
 <em><strong>HTTP 404 ERROR</strong></em></p>
 <p><img src="https://.google" alt="http 404 error"></p>
-<p>usercontent.com/ZSpSt2HBEstsz_tMAu2HwVQdaBuckTlzcdHUPI80nWMWX9j0Cj08c_etcxS6d02tRDRLlG9zDawtxYkpYWm2h_NwAXvEyaNOXAYxlmDwUSJrqM_5lbpuZenkL3Fl7-ohSI3AElU-XH2Lcv3BIB1Ql7TovGr-8Pv1y4Qxsq_9f5WEpw9uKeQja_bnRlPQ6dFU8wwYYju3Qd8yngl9bG2kOjc8H_mdPdjRIWUOKYxbqsA8KgLtZp0TCR9pK1s-adU7uU5ACUesCSz6_ynOywvVCmkL4CB-Fe3WjL5bsBbJ9Q6wIZLx9T9JEoBcIZFjA4fnsgAmIn2O9TeobBPEipbEYu0OgrET5pWEET4Caai4F4RFakSaOv5F58u8pwRDBT4ymJ1Gv_w1b9lsEILyMJ0C-OTgLtwyWCgljKVj_FKQcSh2RR3nTFJZ0rhwxQx-PSPBFIdIWM59QSBZVQfEKAan2LFXUswG_GtIltmOQQHIMUTpga4nmxujCR_NoxHl05NZi8aSMaGYosFV985n-7xm-YTQxhchENphNuZYj0918e5-CbxiNveZvTcjkixsrKDU_3J6o4HCnRxN9h8xfvo8UtWq2v2q-RZo6NEZEgL7ktsCL8Q-29WBWH74pSqhf43G2fkozSYuXxlv-FVRXPi0uAa6pkolroS4CZkpqLdffxkYpxrRP5yEj1QcZK8Yk6d8A2JKkHMzMhnX05YfvF9wKxrI=w338-h543-no?authuser=0)
+<p>usercontent.com/uc?id=1KIEbPQiNf-3yuTX3nq7KOOtI8Oy02Cqy)
 
 In my case, I never had changed my branch name,  <em><strong>main</strong></em> the default name.<br>
 And when I tried to get <code>how to use StackEdit</code> in my mother’'s language,<br>
@@ -81,5 +81,5 @@ Anyway, you all have a nice day!</p>
 -2021.06.22-</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQzODE2NzRdfQ==
+eyJoaXN0b3J5IjpbMjEzODY1NTY5NV19
 -->
