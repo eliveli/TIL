@@ -46,7 +46,9 @@ and also Korean not English who can get many information easy...
 
 Anyway, I could solve it for two method.
 First thing is that to input your branch name correctly.
-(If the name
+(If the name is default ***main***, type it.)
+
+
 
 
 
@@ -188,7 +190,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzA0MDg0NywtMTIzMDc3OTUwLC03ND
-U1MzYzNTUsNjk0MzAyMzMwLC0xNDg5MjYxNTA1LDQ4Mzg3ODI1
-MSw0MDQyMDE1NDIsMTA1MjMyMTI1OF19
+eyJoaXN0b3J5IjpbLTE3NjM2MTMwMTUsLTEyMzA3Nzk1MCwtNz
+Q1NTM2MzU1LDY5NDMwMjMzMCwtMTQ4OTI2MTUwNSw0ODM4Nzgy
+NTEsNDA0MjAxNTQyLDEwNTIzMjEyNThdfQ==
 -->
