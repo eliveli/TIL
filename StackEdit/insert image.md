@@ -73,11 +73,11 @@
 스택에딧 불편한 점:
 이미지 업로드.
 이미지 크기 설정 안 됨.
-서버에 올린 이
- 왜 또 깃허브에 이미지가 보이지 않는 거지.. 스택에딧에서는 프리뷰로 잘 보이는데 하...
+내 클라우드에서 이미지 공유하는 거라 이미지 url 접속이 이후 안 되는 경우가 있을 수....ㅏ....
+ 왜 또 깃허브에 이미지가 보이지 않는 거지.. 스택에딧에서는 프리뷰로 잘 보이는데
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTQ3MTk4MjAsMTUwNzMxNTczNywxOD
-EwNjQ0NTA1LDYxOTI5NTA2OV19
+eyJoaXN0b3J5IjpbMTk3NTEwMjM2OCwxNTA3MzE1NzM3LDE4MT
+A2NDQ1MDUsNjE5Mjk1MDY5XX0=
 -->
