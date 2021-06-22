@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="http-404-error"><em><strong>HTTP 404 ERROR</strong></em></h1>
 <p>When I tried to publish my file many timesfrom StackEdit to GitHub, <em><strong>http 404 error</strong></em> made me sad.<br>
 Now I have solved the problem, I feel really really happy…!</p>
