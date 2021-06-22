@@ -14,7 +14,7 @@
 - 마우스 왼쪽 클릭
 - copy image adress
 - 스택에딧에서 이미지 아이콘 클릭, url 인풋 박스에 붙여넣기
-- 주의. 
+- 주의. 앨
 
 
 
@@ -103,7 +103,7 @@
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTcxODM3MzksLTQ1MDQ3ODYyMiwxOD
-Y5MzU4MDYyLC05MzYxMDI3MDAsMTUwNzMxNTczNywxODEwNjQ0
-NTA1LDYxOTI5NTA2OV19
+eyJoaXN0b3J5IjpbLTU2MjkxMzgxNywtMTAxNzE4MzczOSwtND
+UwNDc4NjIyLDE4NjkzNTgwNjIsLTkzNjEwMjcwMCwxNTA3MzE1
+NzM3LDE4MTA2NDQ1MDUsNjE5Mjk1MDY5XX0=
 -->
