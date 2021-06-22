@@ -63,6 +63,8 @@ And also you can change your branch name another not master
  and publish to that renamed branch.
 
 
+Typing English is difficult..
+
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
 ## Create files and folders
@@ -200,7 +202,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU3MTk1MzgsNTYwMTQzNjA3LC0xMj
-MwNzc5NTAsLTc0NTUzNjM1NSw2OTQzMDIzMzAsLTE0ODkyNjE1
-MDUsNDgzODc4MjUxLDQwNDIwMTU0MiwxMDUyMzIxMjU4XX0=
+eyJoaXN0b3J5IjpbMTI4Mjc2NTgxNyw1NjAxNDM2MDcsLTEyMz
+A3Nzk1MCwtNzQ1NTM2MzU1LDY5NDMwMjMzMCwtMTQ4OTI2MTUw
+NSw0ODM4NzgyNTEsNDA0MjAxNTQyLDEwNTIzMjEyNThdfQ==
 -->
