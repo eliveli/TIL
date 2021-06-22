@@ -75,7 +75,9 @@
 - 무료 이미지 호스팅 사이트
 	> 기간 제한이 있는 경우    
 	기간 제한은 없으나 클릭해도 웹사이트가 계속 로딩 중인 경우(Aㅏ...)
-- 구글 안내서
+- 구글 안내서 
+	> 0번 방법 찾음(~~중도 포기~~)
+	
 	> https://support.google.com/accounts/answer/9666875?hl=en    
 	
 	> https://identity.flickr.com/login?redir=%2Fservices%2Foauth%2Fauthorize%3Foauth_token%3D72157719446315071-89c3adbf5c5bf3f0%26perms%3Dwrite
@@ -91,7 +93,7 @@
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MTYzNTg2LDE4NjkzNTgwNjIsLTkzNj
-EwMjcwMCwxNTA3MzE1NzM3LDE4MTA2NDQ1MDUsNjE5Mjk1MDY5
-XX0=
+eyJoaXN0b3J5IjpbLTQyMjU3NjE1OCwxODY5MzU4MDYyLC05Mz
+YxMDI3MDAsMTUwNzMxNTczNywxODEwNjQ0NTA1LDYxOTI5NTA2
+OV19
 -->
