@@ -53,7 +53,9 @@ Second is changing your branch name to ***master*** on GitHub.
 ![change you branch name](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%805.PNG)
 In your repository, follow the stage.
 [ Setting > Branches > pencil icon (inside the box) > type "master" > click "Rename branch" ]
-After that, you can Publish to GitHub
+After that, you can Publish from StackEdit to GitHub without typing in the branch input box.
+
+Also
 
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
@@ -193,7 +195,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODQ5NDA1NCw1NjAxNDM2MDcsLTEyMz
-A3Nzk1MCwtNzQ1NTM2MzU1LDY5NDMwMjMzMCwtMTQ4OTI2MTUw
-NSw0ODM4NzgyNTEsNDA0MjAxNTQyLDEwNTIzMjEyNThdfQ==
+eyJoaXN0b3J5IjpbNDk5NjM1MDg5LDU2MDE0MzYwNywtMTIzMD
+c3OTUwLC03NDU1MzYzNTUsNjk0MzAyMzMwLC0xNDg5MjYxNTA1
+LDQ4Mzg3ODI1MSw0MDQyMDE1NDIsMTA1MjMyMTI1OF19
 -->
