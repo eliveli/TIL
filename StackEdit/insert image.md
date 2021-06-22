@@ -2,6 +2,14 @@
 
 스택에딧에서 처음 이미지를 첨부한다면 여러 난관에 부딪히게 된다.    
 먼저 내가 성공한 방법부터 소개하겠다.
+## 0. 구글 포토 애
+
+
+
+
+
+
+
 ## 1. 구글 드라이브 링크 공유
 - 구글 드라이브에 로컬의 이미지 업로드
 
@@ -78,7 +86,7 @@
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTcyOTg1NCwxODY5MzU4MDYyLC05Mz
+eyJoaXN0b3J5IjpbMTEzNjc4MTEwMiwxODY5MzU4MDYyLC05Mz
 YxMDI3MDAsMTUwNzMxNTczNywxODEwNjQ0NTA1LDYxOTI5NTA2
 OV19
 -->
