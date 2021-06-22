@@ -29,7 +29,8 @@
 <br>
 와 드디어 해냈다.<br>
 아래 참조 부분을 꼭 클릭해 보시라...! 친절히 설명 잘 해 주심ㅠㅠ<br>
-(구글 포토에서 이미지를 못 가져온 건 임베드 기능이 없어서구나.. <br>앨범으로는 가능해서 다행이다ㅎㅎ)<br><br>
+(구글 포토에서 이미지를 못 가져온 건 임베드 기능이 없어서구나.. <br>앨범으로는 가능해서 다행이다ㅎㅎ)<br>
+이미지 크기 조정도 가능하다는데 나중에 한 번 해봐야지<br>
 
 [참조]
 
@@ -98,7 +99,7 @@ https://support.google.com/photos/thread/10444052/problem-uploading-link-for-mar
 	> 기간 제한이 있는 경우    
 	기간 제한은 없으나 클릭해도 웹사이트가 계속 로딩 중인 경우(Aㅏ...)
 - 구글 안내서 + flickr 
-	> (~~중도 포기~~)포스팅 상단 0번 방법으로 해결
+	>포스팅 상단 0번 방법으로 해결 ~~얘는 중도 포기~~
 	
 	> https://support.google.com/accounts/answer/9666875?hl=en    
 	
@@ -114,8 +115,7 @@ https://support.google.com/photos/thread/10444052/problem-uploading-link-for-mar
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc0MTM1MzAsNjM1OTkyNTgxLC0xMD
-E3MTgzNzM5LC00NTA0Nzg2MjIsMTg2OTM1ODA2MiwtOTM2MTAy
-NzAwLDE1MDczMTU3MzcsMTgxMDY0NDUwNSw2MTkyOTUwNjldfQ
-==
+eyJoaXN0b3J5IjpbNzgyNDEzNzgsNjM1OTkyNTgxLC0xMDE3MT
+gzNzM5LC00NTA0Nzg2MjIsMTg2OTM1ODA2MiwtOTM2MTAyNzAw
+LDE1MDczMTU3MzcsMTgxMDY0NDUwNSw2MTkyOTUwNjldfQ==
 -->
