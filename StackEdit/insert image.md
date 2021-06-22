@@ -25,8 +25,8 @@
 ![enter image description here](https://drive.google.com/uc?id=1PG9ZhXxx6HvRcYC3WHt-833v0qSXaac5)
 <br><br>
 - url 에서 블럭 잡은 부분 기준
-	>앞쪽 ```file/d``` 지우고 ```uc?id=``` 입력
-	>	뒤쪽 ```/view?usp... ```  끝까지 지우면 완료!
+	>앞쪽 ```file/d``` 지우고 ```uc?id=``` 입력    
+		뒤쪽 ```/view?usp... ```  끝까지 지우면 완료!
 
 ![enter image description here](https://drive.google.com/uc?id=1wWl_j0107m6-FRChXSbvcFS4SGD-Pkmd)
 
@@ -69,6 +69,6 @@
 <br><br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5Nzk1NjQ1LDE4MTA2NDQ1MDUsNjE5Mj
-k1MDY5XX0=
+eyJoaXN0b3J5IjpbMTUwNzMxNTczNywxODEwNjQ0NTA1LDYxOT
+I5NTA2OV19
 -->
