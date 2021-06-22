@@ -1,4 +1,4 @@
-# when publishing ***HTTP 404 ERROR***
+# when publishing_***HTTP 404 ERROR***
 When I tried to publish my file many timesfrom StackEdit to GitHub, ***http 404 error*** made me sad.
 Now I have solved the problem, I feel really really happy...!
 
@@ -16,6 +16,7 @@ so I will write down Korean my mother's language...
 >그런데 글씨체는 한국어보다 영어가 단정하고 예쁘네
  하 슬프도다..
 아래는 덜 예쁜 폰트로 적..으려다 섞어 적음 갸악
+
 ## look the word ***MASTER*** 
 
 
@@ -28,7 +29,7 @@ Look the word and the sentence.
 > ```Branch — optional```  
 If not supplied, the ```master``` branch will be used.
 
-optional manes not optional..
+optional means not optional..
 If your repository branch name is 'main', you will see the alert
 ***HTTP 404 ERROR***
 
@@ -181,7 +182,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MjUzMzYzNSw2OTQzMDIzMzAsLTE0OD
+eyJoaXN0b3J5IjpbMTI1MjI2NDgzOCw2OTQzMDIzMzAsLTE0OD
 kyNjE1MDUsNDgzODc4MjUxLDQwNDIwMTU0MiwxMDUyMzIxMjU4
 XX0=
 -->
