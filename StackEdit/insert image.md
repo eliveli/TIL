@@ -28,10 +28,10 @@
 <br>
 
 	> 와 드디어 해냈다.
-아래 참조 부분을 꼭 클릭해 보시라...! 친절히 설명 잘 해 주심ㅠㅠ
-(구글 포토에서 이미지를 못 가져온 건 임베드 기능이 없어서구나.. 
-앨범으로는 가능해서 다행이다ㅎㅎ)
-이미지 크기 조정도 가능하다는데 나중에 한 번 해봐야지<br>
+	> 아래 참조 부분을 꼭 클릭해 보시라...! 친절히 설명 잘 해 주심ㅠㅠ
+	> (구글 포토에서 이미지를 못 가져온 건 임베드 기능이 없어서구나.. 
+	> 앨범으로는 가능해서 다행이다ㅎㅎ)
+	> 이미지 크기 조정도 가능하다는데 나중에 한 번 해봐야지<br>
 
 [참조]
 
@@ -116,7 +116,7 @@ https://support.google.com/photos/thread/10444052/problem-uploading-link-for-mar
 <br>
 #### -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDEzMDgzNiw3ODI0MTM3OCw2MzU5OT
+eyJoaXN0b3J5IjpbLTMzMTkxNTMzNiw3ODI0MTM3OCw2MzU5OT
 I1ODEsLTEwMTcxODM3MzksLTQ1MDQ3ODYyMiwxODY5MzU4MDYy
 LC05MzYxMDI3MDAsMTUwNzMxNTczNywxODEwNjQ0NTA1LDYxOT
 I5NTA2OV19
