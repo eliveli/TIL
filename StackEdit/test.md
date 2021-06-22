@@ -55,7 +55,7 @@ In your repository, follow the stage.
 [ Setting > Branches > pencil icon (inside the box) > type "master" > click "Rename branch" ]
 After that, you can Publish from StackEdit to GitHub without typing in the branch input box.
 
-Also you can change your branch name another not master and publish ...
+Also you can change your branch name another not master and publish to that renamed branch.
 
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
@@ -195,7 +195,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzczMzU4OTQsNTYwMTQzNjA3LC0xMj
-MwNzc5NTAsLTc0NTUzNjM1NSw2OTQzMDIzMzAsLTE0ODkyNjE1
-MDUsNDgzODc4MjUxLDQwNDIwMTU0MiwxMDUyMzIxMjU4XX0=
+eyJoaXN0b3J5IjpbMTY0ODA0Mzg5OCw1NjAxNDM2MDcsLTEyMz
+A3Nzk1MCwtNzQ1NTM2MzU1LDY5NDMwMjMzMCwtMTQ4OTI2MTUw
+NSw0ODM4NzgyNTEsNDA0MjAxNTQyLDEwNTIzMjEyNThdfQ==
 -->
