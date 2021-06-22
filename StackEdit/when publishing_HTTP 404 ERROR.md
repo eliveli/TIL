@@ -52,10 +52,9 @@ Second is changing your branch name to <em><strong>master</strong></em> on GitHu
 In your repository, follow the steps.</p>
 <blockquote>
 <p><code>
->``` Setting &gt; Branches &gt; pencil icon (inside the box) &gt;> type "master" &gt;> click "Rename branch"</code></p>
+ Setting &gt; Branches &gt; pencil icon (inside the box) &gt; type "master" &gt; click "Rename branch"</code></p>
 </blockquote>
-<p> ```
->
+<p> 
 After that, you can Publish from StackEdit to GitHub without typing in the branch input box.</p>
 <p>
 
@@ -63,8 +62,8 @@ And also you can change your branch name another not master<br>
  and publish to that renamed branch.</p>
 <p>
 
-Typing English is difficult…<br>..
-not correct grammar…<br>
+Typing English is difficult…
+not correct grammar…
 sigh</p>
 <p>
 
@@ -74,5 +73,5 @@ Anyway, you all have a nice day!</p>
 -2021.06.22-</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxMzMyMzcyLDIxMzg2NTU2OTVdfQ==
+eyJoaXN0b3J5IjpbLTIzMjI5ODgyNiwyMTM4NjU1Njk1XX0=
 -->
