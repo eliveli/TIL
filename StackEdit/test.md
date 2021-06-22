@@ -1,5 +1,4 @@
 # ***HTTP 404 ERROR***
-![enter image description here](https://drive.google.com/file/d/1KIEbPQiNf-3yuTX3nq7KOOtI8Oy02Cqy/view?usp=sharing)
 When I tried to publish my file many timesfrom StackEdit to GitHub, ***http 404 error*** made me sad.    
 Now I have solved the problem, I feel really really happy...!
 
@@ -20,9 +19,7 @@ so I will write down Korean my mother's language...
  아 힘들다 영어 좀 잘했으면
 
 ## look the word ***MASTER*** 
-![enter image description here](https://mybox.naver.com/#/photo/all/viewer/3472439752808264225:5873940/%7B%22thumbUrl%22:%22https://thumb1.photo.mybox.naver.com/3472439752808264225?type=m1280_1280_2&nocache=5057021212%22%7D)
-
-![click publish to github](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%801.PNG)
+![click publish to github](https://drive.google.com/file/d/1hlbmEkal1vPVBdUyuOgZQNu5gtqVIh2i/view?usp=sharing)
 
 ![look the word master](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%802.PNG) 
 
@@ -72,5 +69,5 @@ Anyway, you all have a nice day!
 
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTYzNjM5MV19
+eyJoaXN0b3J5IjpbODk4ODM0MzgyLDE2NzE2MzYzOTFdfQ==
 -->
