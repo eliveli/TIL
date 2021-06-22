@@ -16,7 +16,7 @@ so I will write down Korean my mother's language...
 >그런데 글씨체는 한국어보다 영어가 단정하고 예쁘네
  하 슬프도다..
 아래는 덜 예쁜 폰트로 적은 것
-## Clicking 'Publish to GitHub'
+## Look the word ***master***
 
 
 ![click publish to github](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%801.PNG)
@@ -26,7 +26,7 @@ so I will write down Korean my mother's language...
 
 Look the word and the sentence
  ```Branch — optional```  
-If not supplied, the master branch will be used.```
+If not supplied, the ```master``` branch will be used.
 
 
 
@@ -167,6 +167,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODE5MTc2NCwtMTQ4OTI2MTUwNSw0OD
+eyJoaXN0b3J5IjpbMTYzNDc0MzczNywtMTQ4OTI2MTUwNSw0OD
 M4NzgyNTEsNDA0MjAxNTQyLDEwNTIzMjEyNThdfQ==
 -->
