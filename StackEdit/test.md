@@ -1,4 +1,4 @@
-# when publishing_***HTTP 404 ERROR***
+# ***HTTP 404 ERROR***
 When I tried to publish my file many timesfrom StackEdit to GitHub, ***http 404 error*** made me sad.    
 Now I have solved the problem, I feel really really happy...!
 
@@ -73,8 +73,8 @@ Anyway, you all have a nice day!
 
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDc2ODc3MiwtMzg3MjE4OTQwLC0xMz
-I5Mzk2NTksNTYwMTQzNjA3LC0xMjMwNzc5NTAsLTc0NTUzNjM1
-NSw2OTQzMDIzMzAsLTE0ODkyNjE1MDUsNDgzODc4MjUxLDQwND
-IwMTU0MiwxMDUyMzIxMjU4XX0=
+eyJoaXN0b3J5IjpbMzY1MTY5NzA2LDE0NDA3Njg3NzIsLTM4Nz
+IxODk0MCwtMTMyOTM5NjU5LDU2MDE0MzYwNywtMTIzMDc3OTUw
+LC03NDU1MzYzNTUsNjk0MzAyMzMwLC0xNDg5MjYxNTA1LDQ4Mz
+g3ODI1MSw0MDQyMDE1NDIsMTA1MjMyMTI1OF19
 -->
