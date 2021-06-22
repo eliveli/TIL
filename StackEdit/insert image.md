@@ -2,11 +2,10 @@
 
 스택에딧에서 처음 이미지를 첨부한다면 여러 난관에 부딪히게 된다.    
 먼저 내가 성공한 방법부터 소개하겠다.
->	 0번 최종 성공
-> 1, 2 불완전
-	> -  1번은 링크 몇 개만 작동, 2번은 한 개만 시도하고 성공해서 결론 짓기 어려움   
-	(+2번에서 참조한 블로거 설명으론 추천하는 방법이 아니라는 듯)
-	>  - 스택에딧 외 다른 곳에 이미지 공유 또는 그외 필요 시 참고
+-  0번 최종 성공
+ - 1, 2 불완전(필요 시 참고)
+1번은 링크 몇 개만 작동, 2번은 한 개만 시도하고 성공해서 결론 짓기 어려움   
+(+2번에서 참조한 블로거 설명으론 추천하는 방법이 아니라는 듯)
 ## (최종) 0. 구글 포토 앨범_이미지 링크 복사 
 - 구글 포토 접속
 - 앨범을 만들어 사진 추가
@@ -122,8 +121,8 @@ https://support.google.com/photos/thread/10444052/problem-uploading-link-for-mar
 <br>
 #### -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDE4MzM3NTAsOTQxMDEzNDEyLDc4Mj
-QxMzc4LDYzNTk5MjU4MSwtMTAxNzE4MzczOSwtNDUwNDc4NjIy
-LDE4NjkzNTgwNjIsLTkzNjEwMjcwMCwxNTA3MzE1NzM3LDE4MT
-A2NDQ1MDUsNjE5Mjk1MDY5XX0=
+eyJoaXN0b3J5IjpbNjAxMzk5MTQ5LDk0MTAxMzQxMiw3ODI0MT
+M3OCw2MzU5OTI1ODEsLTEwMTcxODM3MzksLTQ1MDQ3ODYyMiwx
+ODY5MzU4MDYyLC05MzYxMDI3MDAsMTUwNzMxNTczNywxODEwNj
+Q0NTA1LDYxOTI5NTA2OV19
 -->
