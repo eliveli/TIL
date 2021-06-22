@@ -70,7 +70,7 @@
 
 
 ```
-스택에딧 불편한 
+[스택에딧 불편한 점]
 이미지 업로드.
 이미지 크기 조정 안 됨.
 내 클라우드에서 이미지 공유하는 거라 이미지 url 접속이 이후 안 되는 경우가 있을 수....ㅏ....
@@ -78,6 +78,6 @@
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTc4NDU5MiwtOTM2MTAyNzAwLDE1MD
+eyJoaXN0b3J5IjpbMTg2OTM1ODA2MiwtOTM2MTAyNzAwLDE1MD
 czMTU3MzcsMTgxMDY0NDUwNSw2MTkyOTUwNjldfQ==
 -->
