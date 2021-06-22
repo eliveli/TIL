@@ -29,9 +29,10 @@ Look the word and the sentence.
 If not supplied, the ```master``` branch will be used.
 
 optional manes not optional..
-If your repository branch name is 'main', you will see the alert.
+If your repository branch name is 'main', you will see the alert
 ***HTTP 404 ERROR***
 
+![http 404 error](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%803.PNG)
 
 
 
@@ -173,6 +174,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0MzAyMzMwLC0xNDg5MjYxNTA1LDQ4Mz
-g3ODI1MSw0MDQyMDE1NDIsMTA1MjMyMTI1OF19
+eyJoaXN0b3J5IjpbLTExNzY1NTYwODQsNjk0MzAyMzMwLC0xND
+g5MjYxNTA1LDQ4Mzg3ODI1MSw0MDQyMDE1NDIsMTA1MjMyMTI1
+OF19
 -->
