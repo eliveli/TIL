@@ -51,8 +51,9 @@
 ## + 실패했거나 만족스럽지 못했던 방법
 - 네이버 클라우드(MyBox)
 	>이미지를 직접 불러오지 못한다. 링크 클릭해서 연결됨.    
+	(혹시 다른 방법이 있나?)    
 	> 링크 접근에 횟수 제한이 있다.    
-	예전 경험 상 제한 횟수가 소진되더라도 다시 리셋하여 사용할 수 있으나,  마 되었는지 신경을 써 줘야 한다.
+	예전 경험 상 제한 횟수가 소진되더라도 다시 리셋하여 사용할 수 있으나,  소진 여부를 신경 써 줘야 한다.
 	
 
 - 스택에딧에서 구글 포토 계정 연결
@@ -69,9 +70,10 @@
 	![enter image description here](http://naver.me/xrP3SejK)
 
 
++ 왜 또 깃헙
 <br><br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjE3MDE4NjAsMTUwNzMxNTczNywxOD
-EwNjQ0NTA1LDYxOTI5NTA2OV19
+eyJoaXN0b3J5IjpbLTMyMTQ4OTA0LDE1MDczMTU3MzcsMTgxMD
+Y0NDUwNSw2MTkyOTUwNjldfQ==
 -->
