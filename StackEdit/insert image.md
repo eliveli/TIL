@@ -4,9 +4,9 @@
 먼저 내가 성공한 방법부터 소개하겠다.
 - **0번 최종 성공**    
 >	 ~~- 1, 2 불완전(필요 시 참고)~~   
-	>	1번은 링크 몇 개만 작동      
-	>	 2번은 한 개만 시도하고 성공해서 결론 짓기 어려움          
-	>	(+2번에서 참조한 블로거 설명으론 추천하는 방법이 아니라는 듯)   
+>	1번은 링크 몇 개만 작동      
+>	 2번은 한 개만 시도하고 성공해서 결론 짓기 어려움          
+>	(+2번에서 참조한 블로거 설명으론 추천하는 방법이 아니라는 듯)   
 ## (최종) 0. 구글 포토 앨범_이미지 링크 복사 
 - 구글 포토 접속
 - 앨범을 만들어 사진 추가
@@ -126,9 +126,9 @@ https://support.google.com/photos/thread/10444052/problem-uploading-link-for-mar
 <br>
 #### -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDA4MTk1OSwtMjEwNjM1NTAyNywtND
-UyODk1MDA1LDk0MTAxMzQxMiw3ODI0MTM3OCw2MzU5OTI1ODEs
-LTEwMTcxODM3MzksLTQ1MDQ3ODYyMiwxODY5MzU4MDYyLC05Mz
-YxMDI3MDAsMTUwNzMxNTczNywxODEwNjQ0NTA1LDYxOTI5NTA2
-OV19
+eyJoaXN0b3J5IjpbNjIyNzkzOTA1LC0yMTA2MzU1MDI3LC00NT
+I4OTUwMDUsOTQxMDEzNDEyLDc4MjQxMzc4LDYzNTk5MjU4MSwt
+MTAxNzE4MzczOSwtNDUwNDc4NjIyLDE4NjkzNTgwNjIsLTkzNj
+EwMjcwMCwxNTA3MzE1NzM3LDE4MTA2NDQ1MDUsNjE5Mjk1MDY5
+XX0=
 -->
