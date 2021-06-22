@@ -1,5 +1,4 @@
 <h1 id="http-404-error"><em><strong>HTTP 404 ERROR</strong></em></h1>
-(https://mybox.naver.com/#/photo/all/viewer/3472439752808264225:5873940/%7B%22thumbUrl%22:%22https://thumb1.photo.mybox.naver.com/3472439752808264225?type=m1280_1280_2&nocache=5057021212%22%7D)
 <p>When I tried to publish my file many timesfrom StackEdit to GitHub, <em><strong>http 404 error</strong></em> made me sad.<br>
 Now I have solved the problem, I feel really really happy…!</p>
 <p>In short, the reason I took the trouble is about the <em><strong>branch</strong></em>.</p>
