@@ -12,8 +12,11 @@ In the below I write down the process I met the problem and solved it.
 ...
 Writing English is not easy for me
 so I will write down Korean my mother's language...
-(그런데 글씨체는 한국어보다 영어가 단정하고 예쁘네 하 폰트 차별이다ㅏㅏㅏ)
-## Clicking Publish to GitHub
+
+>그런데 글씨체는 한국어보다 영어가 단정하고 예쁘네
+ 하 슬프도다..
+아래는 덜 예쁜 폰트로 적은 것
+## Clicking 'Publish to GitHub'
 
 
 
@@ -161,11 +164,11 @@ C --> D
 ```
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJjOXVRdFM4MWZURU5jbVV5Ijp7In
-N0YXJ0Ijo2MzMsImVuZCI6NjM0LCJ0ZXh0IjoidSJ9fSwiY29t
+N0YXJ0Ijo2NTAsImVuZCI6NjUxLCJ0ZXh0IjoidSJ9fSwiY29t
 bWVudHMiOnsiUnlXWGdWWU5VcVNCVFh0UiI6eyJkaXNjdXNzaW
 9uSWQiOiJjOXVRdFM4MWZURU5jbVV5Iiwic3ViIjoiZ286MTA1
 Mzg3MDIwMjY4MDk5MTYxNDY5IiwidGV4dCI6Imxvb2sgXCJtYX
 N0ZXJcIiIsImNyZWF0ZWQiOjE2MjQzMzA5NjY2MjV9fSwiaGlz
-dG9yeSI6Wy02MTgwOTg1MDMsNDgzODc4MjUxLDQwNDIwMTU0Mi
-wxMDUyMzIxMjU4XX0=
+dG9yeSI6Wy0xNDg5MjYxNTA1LDQ4Mzg3ODI1MSw0MDQyMDE1ND
+IsMTA1MjMyMTI1OF19
 -->
