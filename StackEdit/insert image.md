@@ -2,11 +2,11 @@
 
 스택에딧에서 처음 이미지를 첨부한다면 여러 난관에 부딪히게 된다.    
 먼저 내가 성공한 방법부터 소개하겠다.
--  0번 최종 성공
- ~~- 1, 2 불완전(필요 시 참고)~~
-1번은 링크 몇 개만 작동    
- 2번은 한 개만 시도하고 성공해서 결론 짓기 어려움       
-(+2번에서 참조한 블로거 설명으론 추천하는 방법이 아니라는 듯)
+-  0번 최종 성공. 
+ ~~- 1, 2 불완전(필요 시 참고)~~   
+1번은 링크 몇 개만 작동      
+ 2번은 한 개만 시도하고 성공해서 결론 짓기 어려움          
+(+2번에서 참조한 블로거 설명으론 추천하는 방법이 아니라는 듯)   
 ## (최종) 0. 구글 포토 앨범_이미지 링크 복사 
 - 구글 포토 접속
 - 앨범을 만들어 사진 추가
@@ -19,9 +19,9 @@
 
 
 ![enter image description here](https://lh3.googleusercontent.com/5gR-hDJOU98nOVTVbF4IleFdupf1YfWJcnReFFrFAgW7nnn4JiGYZAC2CBCBEkZim5zphpGt8zqny-0AsVpAV4pEq4knpfUeRhevjqCoiCY4wtbYT6Ro7Pgu6_EcHoPpLtgwvEzJwSX-gkRZUr17HzFMtFpbdT-ITExa2iPLPv4QQZQWf7dDDtMMHTDQ9rvZyQdOpcheNXLkO3_7B1UeFdkKUj3E8hbWFUXxjsz1mZhGbRCq8ITITKAb9U8wW1wtzbTai30z7-xW4AOrfc3BSktCDZGRwVPwKlne1wexwaFCXvyyAKi6THOKAkwk8TbunbbP9GSjg8j2IKEUEOZUUmA0gqCKJG7Nnq4teo783Z-ivpkeghbPr8r0byaD8Z3AL_I0cUcCiIot_oigR5xtj0vnzO_FRJ--SypmRC4YWHjqG0rsvDwwxf6e2Xc4zfWCPSRJMIlq8nPs6eMj4k0oIVDvnWwwSLGz6cNGZXAxOc_8dGttMZrpSx81urmkgzUpQhje4DeA5pVwW6zzZe7cwgfkuEerP54HDzsxZWHz3xL73UEA644a2L122X2w4tqHBwxJj1XA5kASfCiUA8F7QZtTwox_v97Nn23Mnlf4aQOi7DrEY9siq0HNo233IZjX4Q-t4idqznCQGqcGSujHT9ft-6aUyYXu5c3pwSdBBQtOpnObw7Zw4IIzP0munubsA6Ho9hDBexrzUdc-3RRuGnwW=w564-h420-no?authuser=0)
-
-
 <br>
+
+
 - 오른쪽마우스 클릭
 - ```Copy image adress```
 - 스택에딧, 우측 상단 ```이미지 아이콘``` 클릭, 링크 넣기
@@ -124,8 +124,8 @@ https://support.google.com/photos/thread/10444052/problem-uploading-link-for-mar
 <br>
 #### -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjUyMDY2MiwtNDUyODk1MDA1LDk0MT
-AxMzQxMiw3ODI0MTM3OCw2MzU5OTI1ODEsLTEwMTcxODM3Mzks
-LTQ1MDQ3ODYyMiwxODY5MzU4MDYyLC05MzYxMDI3MDAsMTUwNz
-MxNTczNywxODEwNjQ0NTA1LDYxOTI5NTA2OV19
+eyJoaXN0b3J5IjpbODI4Njg0MjA0LC00NTI4OTUwMDUsOTQxMD
+EzNDEyLDc4MjQxMzc4LDYzNTk5MjU4MSwtMTAxNzE4MzczOSwt
+NDUwNDc4NjIyLDE4NjkzNTgwNjIsLTkzNjEwMjcwMCwxNTA3Mz
+E1NzM3LDE4MTA2NDQ1MDUsNjE5Mjk1MDY5XX0=
 -->
