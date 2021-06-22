@@ -1,5 +1,5 @@
 # ***HTTP 404 ERROR***
-![enter image description here](https://drive.google.com/file/d/11knVBfY5EFLd5qYJXXsPNlGq7a3zI4Rx/view?usp=sharing)
+![enter image description here](https://drive.google.com/uc?id=11knVBfY5EFLd5qYJXXsPNlGq7a3zI4Rx)
 When I tried to publish my file many timesfrom StackEdit to GitHub, ***http 404 error*** made me sad.    
 Now I have solved the problem, I feel really really happy...!
 
@@ -70,5 +70,5 @@ Anyway, you all have a nice day!
 
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2Mzg2NTM5XX0=
+eyJoaXN0b3J5IjpbMTczNjMyNTY2NCwyNzYzODY1MzldfQ==
 -->
