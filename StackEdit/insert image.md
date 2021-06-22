@@ -2,7 +2,7 @@
 
 스택에딧에서 처음 이미지를 첨부한다면 여러 난관에 부딪히게 된다.    
 먼저 내가 성공한 방법부터 소개하겠다.
-	 ~~0번만 보세요. 나머지는 다 버려~~
+>	 ~~0번만 보세요. 나머지는 다 버려~~
 ## (최종) 0. 구글 포토 앨범_이미지 링크 복사 
 
 
@@ -93,7 +93,7 @@
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjU3NjE1OCwxODY5MzU4MDYyLC05Mz
+eyJoaXN0b3J5IjpbLTQ1MDQ3ODYyMiwxODY5MzU4MDYyLC05Mz
 YxMDI3MDAsMTUwNzMxNTczNywxODEwNjQ0NTA1LDYxOTI5NTA2
 OV19
 -->
