@@ -14,7 +14,10 @@
 - 마우스 왼쪽 클릭
 - copy image adress
 - 스택에딧에서 이미지 아이콘 클릭, url 인풋 박스에 붙여넣기
-- 주의. 앨
+- 주의. 앨범에 추가된 전체 사진을 보는 페이지가 아님.
+- (이렇게 하면 우측 마우스 클릭 시 Copy Link Adress가 보임)
+- 꼭 특정 사진을 선택해서 마우스 왼쪽 버튼을 클릭하기.(Copy Image Adress)
+- 
 
 
 
@@ -103,7 +106,7 @@
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjkxMzgxNywtMTAxNzE4MzczOSwtND
+eyJoaXN0b3J5IjpbLTUyNDMzNjU4OCwtMTAxNzE4MzczOSwtND
 UwNDc4NjIyLDE4NjkzNTgwNjIsLTkzNjEwMjcwMCwxNTA3MzE1
 NzM3LDE4MTA2NDQ1MDUsNjE5Mjk1MDY5XX0=
 -->
