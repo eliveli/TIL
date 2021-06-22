@@ -45,15 +45,15 @@ I am beginner in both GitHub and StackEdit,
 and also Korean not English who can get many information easy...
 
 Anyway, I could solve it for two method.
-First thing is that to input your branch name correctly.
+First thing is that to input your branch name correctly on StackEdit.
 (If the name is default ***main***, type it.)
 ![input your branch name correctly](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%804.PNG)
 
-Second is changing your branch name to ***master***.
+Second is changing your branch name to ***master*** on GitHub.
 ![change you branch name](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%805.PNG)
 In your repository, follow the stage.
 [ Setting > Branches > pencil icon (inside the box) > type "master" > click "Rename branch" ]
-And you
+After that, you can Publish to GitHub
 
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
@@ -193,7 +193,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjg2ODcyNTAsNTYwMTQzNjA3LC0xMj
-MwNzc5NTAsLTc0NTUzNjM1NSw2OTQzMDIzMzAsLTE0ODkyNjE1
-MDUsNDgzODc4MjUxLDQwNDIwMTU0MiwxMDUyMzIxMjU4XX0=
+eyJoaXN0b3J5IjpbLTQ0ODQ5NDA1NCw1NjAxNDM2MDcsLTEyMz
+A3Nzk1MCwtNzQ1NTM2MzU1LDY5NDMwMjMzMCwtMTQ4OTI2MTUw
+NSw0ODM4NzgyNTEsNDA0MjAxNTQyLDEwNTIzMjEyNThdfQ==
 -->
