@@ -36,7 +36,7 @@ If your repository branch name is 'main', you will see the alert below.
 ![http 404 error](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%803.PNG)
 
 In my case, I never had changed my branch name,  ***main*** the default name.
-And when I searched the internet to know ```how to use StackEdit``` in my mother's language,
+And when I tried to get ```how to use StackEdit``` in my mother's language,
 there were no info about it.
 It just told me that 'that is optional' and you don't need to write down in it.
 
@@ -187,7 +187,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Mzc5NjM3NywtMTIzMDc3OTUwLC03ND
+eyJoaXN0b3J5IjpbLTE2ODk2OTAxMywtMTIzMDc3OTUwLC03ND
 U1MzYzNTUsNjk0MzAyMzMwLC0xNDg5MjYxNTA1LDQ4Mzg3ODI1
 MSw0MDQyMDE1NDIsMTA1MjMyMTI1OF19
 -->
