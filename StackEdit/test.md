@@ -30,13 +30,13 @@ Look the word and the sentence.
 If not supplied, the ```master``` branch will be used.
 
 optional means not optional..
-If your repository branch name is 'main', you will see the alert in the below.
+If your repository branch name is 'main', you will see the alert below.
 ***HTTP 404 ERROR***
 
 ![http 404 error](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%803.PNG)
 
 In my case, I never had changed my repository branch name,  ***main*** the default name.
-And when I searched and get some information about ```how to use StackEdit```,
+And when I searched and got some information about ```how to use StackEdit```,
 there were no info about it.
 They just told me that 'that is optional' and you don't need to write down in it.
 
@@ -182,7 +182,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQxMjEyMzUsNjk0MzAyMzMwLC0xND
+eyJoaXN0b3J5IjpbLTE5MTUwNjEwMTMsNjk0MzAyMzMwLC0xND
 g5MjYxNTA1LDQ4Mzg3ODI1MSw0MDQyMDE1NDIsMTA1MjMyMTI1
 OF19
 -->
