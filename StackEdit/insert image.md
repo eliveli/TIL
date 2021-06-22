@@ -50,7 +50,8 @@
 
 ## + 실패했거나 만족스럽지 못했던 방법
 - 네이버 클라우드(MyBox)
-	>링크 공유에 횟수 제한이 있다.
+	>링크 공유에 횟수 제한이 있다.    
+	
 
 - 스택에딧에서 구글 포토 계정 연결
 	>실패했다.    
@@ -63,12 +64,12 @@
 	> 기간 제한이 있는 경우    
 	기간 제한은 없으나 클릭해도 웹사이트가 계속 로딩 중인 경우(Aㅏ...)
 
-	
+	![enter image description here](http://naver.me/xrP3SejK)
 
 
 <br><br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzMxNTczNywxODEwNjQ0NTA1LDYxOT
-I5NTA2OV19
+eyJoaXN0b3J5IjpbMTE1MTc2NDQzLDE1MDczMTU3MzcsMTgxMD
+Y0NDUwNSw2MTkyOTUwNjldfQ==
 -->
