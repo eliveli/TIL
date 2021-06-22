@@ -27,6 +27,10 @@
 	- (X) 앨범 전체 화면에서 왼쪽 마우스 클릭 시  Copy link adress
 
 
+
+와 드디어 해냈다.
+아래 참조 부분을 꼭 클릭해 보시라...! 친절히 설명 잘 해 주심ㅠㅠ
+(구글 포토에서 이미지를 못 가져온 건 임베드 기능이 ㅇ
 [참조] https://support.google.com/photos/thread/10444052/problem-uploading-link-for-markdown?hl=en&msgid=14212672
 
 
@@ -109,7 +113,7 @@
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE5MDQ2NzUxLDYzNTk5MjU4MSwtMTAxNz
-E4MzczOSwtNDUwNDc4NjIyLDE4NjkzNTgwNjIsLTkzNjEwMjcw
-MCwxNTA3MzE1NzM3LDE4MTA2NDQ1MDUsNjE5Mjk1MDY5XX0=
+eyJoaXN0b3J5IjpbMTAxMjYwODE3MCw2MzU5OTI1ODEsLTEwMT
+cxODM3MzksLTQ1MDQ3ODYyMiwxODY5MzU4MDYyLC05MzYxMDI3
+MDAsMTUwNzMxNTczNywxODEwNjQ0NTA1LDYxOTI5NTA2OV19
 -->
