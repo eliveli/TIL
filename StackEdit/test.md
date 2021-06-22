@@ -9,8 +9,14 @@ and that is me haha :)
 
 In the below I write down the process I met the problem and solve it.
 
+Writ
+
+
+
 
 ![enter image description here](file:///C:/Users/user1/Desktop/%EC%BA%A1%EC%B2%98.PNG)
+
+
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
 ## Create files and folders
@@ -149,11 +155,11 @@ C --> D
 ```
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJjOXVRdFM4MWZURU5jbVV5Ijp7In
-N0YXJ0Ijo0NzEsImVuZCI6NDcyLCJ0ZXh0IjoidSJ9fSwiY29t
+N0YXJ0Ijo0NzksImVuZCI6NDgwLCJ0ZXh0IjoidSJ9fSwiY29t
 bWVudHMiOnsiUnlXWGdWWU5VcVNCVFh0UiI6eyJkaXNjdXNzaW
 9uSWQiOiJjOXVRdFM4MWZURU5jbVV5Iiwic3ViIjoiZ286MTA1
 Mzg3MDIwMjY4MDk5MTYxNDY5IiwidGV4dCI6Imxvb2sgXCJtYX
 N0ZXJcIiIsImNyZWF0ZWQiOjE2MjQzMzA5NjY2MjV9fSwiaGlz
-dG9yeSI6WzEwODI4NTQzODEsNDgzODc4MjUxLDQwNDIwMTU0Mi
+dG9yeSI6WzE1MTA3MjE4NzgsNDgzODc4MjUxLDQwNDIwMTU0Mi
 wxMDUyMzIxMjU4XX0=
 -->
