@@ -54,14 +54,16 @@ https://support.google.com/photos/thread/10444052/problem-uploading-link-for-mar
 <br>   
 - 이미지 더블클릭 - 우측 상단에 있는 점 세개  -  ```공유``` 클릭
 
-![enter image description here](https://drive.google.com/uc?id=1x6JefbzJ3PAXm5tp3F-NTZjRyXglt5ej)
+![enter image description here](https://lh3.googleusercontent.com/hgpiH7HLvwNvw79YaczBbd_8KP2dzv8fWXRplHKlvAEVuc0S9Z2Hn6vBnMQd-kkUaRcAIws_hBSGSHK7TYbLJp81bwd73MqmDDLa1J4oyxP5q5bAyntZhgcmKuKF064xuaupLLprlWMwZuqC2xxfLvAQL51dOv_0zMv-0GYuILI3ajXYpp4gwHI0zL3JS838YApGQzkywrLpc8BE0v__d538yWch7FFT2thKVCAlhIWAA8FFBnl6a2CgC3xEOGAoiD4F4CBcSpicL3hGa8t_Mf8s37QzQ313-i0aj5Cwzb6hXux3q0GuH-umYlKWa67oSmxgB4d3plSxQDVTq4EORN223GKfvWBFp7zztrS_hXELB8xhLqOgylSy10GIkPmBhzt-1ZJKK3Xfb3YR4E6_51KiEoshneSrQoiP7RE6MD_dvDBTbtxaKLXwEoG-xgf8vYVbTF6T-9nDhdOmKoT2QROr8jYeuhg2aqYlBsd24YbIJCjVQkVnbJegmTpVIRv641PTP8mua4jWmv0UFoOn332Tt9r5cXGtnAUiQkOlNxesgK7yvZPhy8ZPC018wQO7qgAaOFGtIvu03zcNPJiSmxqbVR5aoJjX1sQ7kWQZmYWuLRVi72gWrGJxMOJ3q4330P4h0gLNS93kwKq42uUjg2rNfl2pz-bspCfDTmKpr_k4CN_xW6uf9YKQrFLmuAC6sSsBXwzjeglkLmOqEsKVa1dw=w427-h553-no?authuser=0)
 <br>
 - ```링크가 있는 모든 사용자로 변경``` (필수인지는 잘 모름)
 -  ```링크 복사``` 
 -  스택에딧 복귀
 
-![enter image description here](https://lh3.googleusercontent.com/hgpiH7HLvwNvw79YaczBbd_8KP2dzv8fWXRplHKlvAEVuc0S9Z2Hn6vBnMQd-kkUaRcAIws_hBSGSHK7TYbLJp81bwd73MqmDDLa1J4oyxP5q5bAyntZhgcmKuKF064xuaupLLprlWMwZuqC2xxfLvAQL51dOv_0zMv-0GYuILI3ajXYpp4gwHI0zL3JS838YApGQzkywrLpc8BE0v__d538yWch7FFT2thKVCAlhIWAA8FFBnl6a2CgC3xEOGAoiD4F4CBcSpicL3hGa8t_Mf8s37QzQ313-i0aj5Cwzb6hXux3q0GuH-umYlKWa67oSmxgB4d3plSxQDVTq4EORN223GKfvWBFp7zztrS_hXELB8xhLqOgylSy10GIkPmBhzt-1ZJKK3Xfb3YR4E6_51KiEoshneSrQoiP7RE6MD_dvDBTbtxaKLXwEoG-xgf8vYVbTF6T-9nDhdOmKoT2QROr8jYeuhg2aqYlBsd24YbIJCjVQkVnbJegmTpVIRv641PTP8mua4jWmv0UFoOn332Tt9r5cXGtnAUiQkOlNxesgK7yvZPhy8ZPC018wQO7qgAaOFGtIvu03zcNPJiSmxqbVR5aoJjX1sQ7kWQZmYWuLRVi72gWrGJxMOJ3q4330P4h0gLNS93kwKq42uUjg2rNfl2pz-bspCfDTmKpr_k4CN_xW6uf9YKQrFLmuAC6sSsBXwzjeglkLmOqEsKVa1dw=w427-h553-no?authuser=0)
-<br>
+
+
+
+
 - 스택에딧, 상단 바 맨 오른쪽 ```이미지삽입아이콘``` 클릭
 - ```링크 붙여 넣기```
 
@@ -126,9 +128,9 @@ https://support.google.com/photos/thread/10444052/problem-uploading-link-for-mar
 <br>
 #### -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODg5NTA4NSwtMjEwNjM1NTAyNywtND
-UyODk1MDA1LDk0MTAxMzQxMiw3ODI0MTM3OCw2MzU5OTI1ODEs
-LTEwMTcxODM3MzksLTQ1MDQ3ODYyMiwxODY5MzU4MDYyLC05Mz
-YxMDI3MDAsMTUwNzMxNTczNywxODEwNjQ0NTA1LDYxOTI5NTA2
-OV19
+eyJoaXN0b3J5IjpbLTc4NTUxODQ3MywyMTM4ODk1MDg1LC0yMT
+A2MzU1MDI3LC00NTI4OTUwMDUsOTQxMDEzNDEyLDc4MjQxMzc4
+LDYzNTk5MjU4MSwtMTAxNzE4MzczOSwtNDUwNDc4NjIyLDE4Nj
+kzNTgwNjIsLTkzNjEwMjcwMCwxNTA3MzE1NzM3LDE4MTA2NDQ1
+MDUsNjE5Mjk1MDY5XX0=
 -->
