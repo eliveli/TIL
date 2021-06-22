@@ -1,18 +1,18 @@
 # when publishing_***HTTP 404 ERROR***
-When I tried to publish my file many timesfrom StackEdit to GitHub, ***http 404 error*** made me sad.
+When I tried to publish my file many timesfrom StackEdit to GitHub, ***http 404 error*** made me sad.    
 Now I have solved the problem, I feel really really happy...!
 
 In short, the reason I took the trouble is about the ***branch***.
 
-Usaually simple is not simple, is something difficult for someone
+Usaually simple is not simple, is something difficult for someone    
 and that is me  :)
 
 In the below I write down the process I met the problem and solved it.
 
 ...
-Writing English is not easy for me
-so I will write down Korean my mother's language...
-( + but I didn't. haha....)
+Writing English is not easy for me    
+so I will write down Korean my mother's language...    
+( + but I didn't. haha....)    
 
 >그런데 글씨체는 한국어보다 영어가 단정하고 예쁘네
  하 슬프도다..
@@ -73,8 +73,8 @@ Anyway, you all have a nice day!
 
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NzIxODk0MCwtMTMyOTM5NjU5LDU2MD
-E0MzYwNywtMTIzMDc3OTUwLC03NDU1MzYzNTUsNjk0MzAyMzMw
-LC0xNDg5MjYxNTA1LDQ4Mzg3ODI1MSw0MDQyMDE1NDIsMTA1Mj
-MyMTI1OF19
+eyJoaXN0b3J5IjpbMTQ0MDc2ODc3MiwtMzg3MjE4OTQwLC0xMz
+I5Mzk2NTksNTYwMTQzNjA3LC0xMjMwNzc5NTAsLTc0NTUzNjM1
+NSw2OTQzMDIzMzAsLTE0ODkyNjE1MDUsNDgzODc4MjUxLDQwND
+IwMTU0MiwxMDUyMzIxMjU4XX0=
 -->
