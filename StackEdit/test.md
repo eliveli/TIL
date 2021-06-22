@@ -47,8 +47,9 @@ and also Korean not English who can get many information easy...
 Anyway, I could solve it for two method.
 First thing is that to input your branch name correctly.
 (If the name is default ***main***, type it.)
-![enter image description here](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%804.PNG)
+![input your branch name correctly](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%804.PNG)
 
+Second is changing your branch name to ***master***.
 
 
 
@@ -190,7 +191,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTU4NjM4MTcsLTEyMzA3Nzk1MCwtNz
-Q1NTM2MzU1LDY5NDMwMjMzMCwtMTQ4OTI2MTUwNSw0ODM4Nzgy
-NTEsNDA0MjAxNTQyLDEwNTIzMjEyNThdfQ==
+eyJoaXN0b3J5IjpbNTYwMTQzNjA3LC0xMjMwNzc5NTAsLTc0NT
+UzNjM1NSw2OTQzMDIzMzAsLTE0ODkyNjE1MDUsNDgzODc4MjUx
+LDQwNDIwMTU0MiwxMDUyMzIxMjU4XX0=
 -->
