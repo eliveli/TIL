@@ -22,7 +22,7 @@ so I will write down Korean my mother’s language…<br>
 <p><code>Branch — optional</code><br>
 If not supplied, the <code>master</code> branch will be used.</p>
 </blockquote>
-<p>optional means not optional…<br>
+<p>optional do not mean optional…<br>
 If your repository branch name is ‘main’, you will see the alert below.<br>
 <em><strong>HTTP 404 ERROR</strong></em></p>
 <p><img src="https://lh3.googleusercontent.com/ZSpSt2HBEstsz_tMAu2HwVQdaBuckTlzcdHUPI80nWMWX9j0Cj08c_etcxS6d02tRDRLlG9zDawtxYkpYWm2h_NwAXvEyaNOXAYxlmDwUSJrqM_5lbpuZenkL3Fl7-ohSI3AElU-XH2Lcv3BIB1Ql7TovGr-8Pv1y4Qxsq_9f5WEpw9uKeQja_bnRlPQ6dFU8wwYYju3Qd8yngl9bG2kOjc8H_mdPdjRIWUOKYxbqsA8KgLtZp0TCR9pK1s-adU7uU5ACUesCSz6_ynOywvVCmkL4CB-Fe3WjL5bsBbJ9Q6wIZLx9T9JEoBcIZFjA4fnsgAmIn2O9TeobBPEipbEYu0OgrET5pWEET4Caai4F4RFakSaOv5F58u8pwRDBT4ymJ1Gv_w1b9lsEILyMJ0C-OTgLtwyWCgljKVj_FKQcSh2RR3nTFJZ0rhwxQx-PSPBFIdIWM59QSBZVQfEKAan2LFXUswG_GtIltmOQQHIMUTpga4nmxujCR_NoxHl05NZi8aSMaGYosFV985n-7xm-YTQxhchENphNuZYj0918e5-CbxiNveZvTcjkixsrKDU_3J6o4HCnRxN9h8xfvo8UtWq2v2q-RZo6NEZEgL7ktsCL8Q-29WBWH74pSqhf43G2fkozSYuXxlv-FVRXPi0uAa6pkolroS4CZkpqLdffxkYpxrRP5yEj1QcZK8Yk6d8A2JKkHMzMhnX05YfvF9wKxrI=w338-h543-no?authuser=0" alt="http 404 error"></p>
