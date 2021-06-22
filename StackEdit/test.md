@@ -1,6 +1,4 @@
-
-
-# Files
+# StackEdit publish http 404 error
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -139,5 +137,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjMyMTI1OF19
+eyJoaXN0b3J5IjpbLTE2Mjk4OTMxMjAsMTA1MjMyMTI1OF19
 -->
