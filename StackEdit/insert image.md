@@ -75,6 +75,10 @@
 - 무료 이미지 호스팅 사이트
 	> 기간 제한이 있는 경우    
 	기간 제한은 없으나 클릭해도 웹사이트가 계속 로딩 중인 경우(Aㅏ...)
+- 구글 안내서
+	> https://support.google.com/accounts/answer/9666875?hl=en    
+	
+	> https://identity.flickr.com/login?redir=%2Fservices%2Foauth%2Fauthorize%3Foauth_token%3D72157719446315071-89c3adbf5c5bf3f0%26perms%3Dwrite
 
 
 ![enter image description here](https://lh3.googleusercontent.com/4H92nRZ7faiMB0n4-S0K52i3muXbIvxRxKabwYQnbIdo8_mtqE8BMG_Hy0glOG2_XMhgQK525U_7PCmsjwy9KCWB29EIjbZaSXYwpvNMkHdR-9L-ymZ9AgB6Oe-XQbJgae9JKIIfye7xAqkOvRbTkcsnHMFGktYNYgOz0AoJxtmQwjOBsmkh45o1pXErRpucs3sa5qUxflCofSFBtpC9GUX4gnamOH7nbzYgsRWhPyq39VOGzd5dS66XAkSRLzHxhuYij_88aZGQYOzRRu4LxdEwQJ3qKWwusPfwus-MpFkBkldSVakX-NNbrRWteQecVAn5wn1t5mMrAltbaVFw59t7djwUXnWbNbE6DQBj54JTA4mc0aM9RmtC65Wk0XOKKHZZqFrGcDoIz-TlSuVMiDmEqF1Z0-uPi_3trkJ2L-UtK3loN84NgNBrY6f_Ypztuu_YFrY-ZASIgcX7XSQRkQjRzTS5mnzsFnvFL7tuFvhnuC9P72zS4akb0vyMldEVx-NSasBpMmd6ES-0xzMjI46XjbX9BRhCt9FBiK4M9Z2YpJHGToJ5sZDjqI_p6kWJR9RMyIvYUQhhZv1OuBalr_40qo_y3RGEESiyMojxIo3TzizTcLnD0FcMUL6qdPl562LwLiiM1xkYdOh7WTjjuLTNVPg_GQm7XYGq1Qs0akhAAcT8OC-zksQpx598byj8vMwsWykMb4uKinyfRzufjkq1=w705-h798-no?authuser=0)
@@ -87,7 +91,7 @@
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjcyNDMyOSwxODY5MzU4MDYyLC05Mz
-YxMDI3MDAsMTUwNzMxNTczNywxODEwNjQ0NTA1LDYxOTI5NTA2
-OV19
+eyJoaXN0b3J5IjpbLTc2MTYzNTg2LDE4NjkzNTgwNjIsLTkzNj
+EwMjcwMCwxNTA3MzE1NzM3LDE4MTA2NDQ1MDUsNjE5Mjk1MDY5
+XX0=
 -->
