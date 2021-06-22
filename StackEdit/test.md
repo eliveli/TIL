@@ -30,7 +30,7 @@ Look the word and the sentence.
 If not supplied, the ```master``` branch will be used.
 
 optional means not optional..
-If your repository branch name is 'main', you will see the alert downward in your wepsite.
+If your repository branch name is 'main', you will see the alert in the below.
 ***HTTP 404 ERROR***
 
 ![http 404 error](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%803.PNG)
@@ -182,7 +182,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Nzg3ODc1MSw2OTQzMDIzMzAsLTE0OD
-kyNjE1MDUsNDgzODc4MjUxLDQwNDIwMTU0MiwxMDUyMzIxMjU4
-XX0=
+eyJoaXN0b3J5IjpbLTIwNTQxMjEyMzUsNjk0MzAyMzMwLC0xND
+g5MjYxNTA1LDQ4Mzg3ODI1MSw0MDQyMDE1NDIsMTA1MjMyMTI1
+OF19
 -->
