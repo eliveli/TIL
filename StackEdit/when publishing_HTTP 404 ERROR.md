@@ -1,5 +1,5 @@
 # ***HTTP 404 ERROR***
-When I tried to publish my file many timesfrom StackEdit to GitHub, ***http 404 error*** made me sad![enter image description here](https://drive.google.com/file/d/1Nft2WtonQZwj6aLVoAMrEzcOcqZROIM_).    
+When I tried to publish my file many timesfrom StackEdit to GitHub, ***http 404 error*** made me sad![enter image description here](https://drive.google.com/uc?id=1Nft2WtonQZwj6aLVoAMrEzcOcqZROIM_).    
 Now I have solved the problem, I feel really really happy...!
 
 In short, the reason I took the trouble is about the ***branch***.
@@ -69,6 +69,6 @@ Anyway, you all have a nice day!
 
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjA1NzIzNiwxNzc1NjczMzY1LDI3Nj
+eyJoaXN0b3J5IjpbMTY5MzgzMzc0MywxNzc1NjczMzY1LDI3Nj
 M4NjUzOV19
 -->
