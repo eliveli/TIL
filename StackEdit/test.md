@@ -42,7 +42,7 @@ It just told me that 'that is optional' and you don't need to write down in it.
 
 How sad it is...!
 I am beginner in both GitHub and StackEdit,
-and also Korean not English who can get many information...
+and also Korean not English who can get many information easy...
 
 Anyway, I could solve it for two method.
 First thing is that to input your main branch
@@ -187,7 +187,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxNTk2MjA2LC03NDU1MzYzNTUsNjk0Mz
-AyMzMwLC0xNDg5MjYxNTA1LDQ4Mzg3ODI1MSw0MDQyMDE1NDIs
-MTA1MjMyMTI1OF19
+eyJoaXN0b3J5IjpbLTEyMzA3Nzk1MCwtNzQ1NTM2MzU1LDY5ND
+MwMjMzMCwtMTQ4OTI2MTUwNSw0ODM4NzgyNTEsNDA0MjAxNTQy
+LDEwNTIzMjEyNThdfQ==
 -->
