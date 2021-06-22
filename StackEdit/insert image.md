@@ -46,7 +46,7 @@ https://support.google.com/photos/thread/10444052/problem-uploading-link-for-mar
 ## ~~1. 구글 드라이브 링크 공유~~
 - 구글 드라이브에 로컬의 이미지 업로드
 
-![enter image description here](https://lh3.googleusercontent.com/LhHRnqIPcbjAXjwmDVCPTAjkQR-t-naOOOrCAZHMHSf9F4CsGm4tu5qYwLZ-A83FGfyPZcXfA4VKIBQhVmB7zj6k6opuUcbdV6E3ifmmEsR26IHZOlPUXR7C8Mn7NcrRJ7rki_WZUw=w2400)
+![enter image description here](https://lh3.googleusercontent.com/1KFAVLvRaddTDDVphTmk6EA7VwtGgdFSQ5p9RBpLUX6ZKEaz5FBNOF9Oqda-ogCJ7gTLP6KiM0yLqsbC1-KB4MWbATiF8i6yCWuPziXPGWpjIncr5U4FjYdY6UgqKmczLyWWDv4yVTd5TH7BlQFR_jX9PLEOT1kwqErtoRixwhHXF2jzgieG-nbitjf3jqkvJk6xKsz6b3zvzG_MMikHXnBMMxKfsEhEvEUm6CtNSdVrQIooZX5-sbSGVSSsCg0zDDai3izb5diKj-BP-arcmxf3aa4voXOEI8342Vyo0xaEfa9Tu8JMFYWuvHyT2Zp1Zyo3pEXw1JXFkgKSdGLB17dhA8lc5R1QWlnUWTyjc3nStcH59bkcE2jNSRvmYkVsIIFFcahEpGGcfwqoqk8FV0MpND0_43YKZuziHG-rGaybijZPUIVzig4uffGU9DknNmuNdch7GYl6UceFmXrp1rWjasvFz6ytJmuVkc_kXJaPtgMOaFJcRRTQlYJ0HtV2frKl-5eeEXQeA_-1tbLv9CXsmfRKNa0SRfhG5Aq0x0pNk4Cv3VLzFm3mG6GDtgZi95ykDkLf8k0EfKqpSKkC1NyCMZeBsCpm67ASJoY5q5C98JPolwk4ber19XcjEZ3FcG79HOF2gf5iPL1cFXy5yykV0XRDIRXdc4VKEQgMnug22QgiVTvfaQDUS16xAJKpVW1keWw4C3M1we-ytWb91csS=w332-h417-no?authuser=0)
 <br>   
 - 이미지 더블클릭 - 우측 상단에 있는 점 세개  -  ```공유``` 클릭
 
@@ -122,7 +122,7 @@ https://support.google.com/photos/thread/10444052/problem-uploading-link-for-mar
 <br>
 #### -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTUxNTkzNjcsOTQxMDEzNDEyLDc4Mj
+eyJoaXN0b3J5IjpbLTE2ODc5OTYxNjMsOTQxMDEzNDEyLDc4Mj
 QxMzc4LDYzNTk5MjU4MSwtMTAxNzE4MzczOSwtNDUwNDc4NjIy
 LDE4NjkzNTgwNjIsLTkzNjEwMjcwMCwxNTA3MzE1NzM3LDE4MT
 A2NDQ1MDUsNjE5Mjk1MDY5XX0=
