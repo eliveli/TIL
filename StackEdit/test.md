@@ -35,9 +35,7 @@ If your repository branch name is 'main', you will see the alert
 ![http 404 error](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%803.PNG)
 
 In my case, I never had changed my repository branch name,  ***main*** the default name.
-And I tried to search 
-
-
+And w
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -176,7 +174,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5NjY4ODg1LDY5NDMwMjMzMCwtMTQ4OT
-I2MTUwNSw0ODM4NzgyNTEsNDA0MjAxNTQyLDEwNTIzMjEyNThd
-fQ==
+eyJoaXN0b3J5IjpbMTM5Njk2MDk0OCw2OTQzMDIzMzAsLTE0OD
+kyNjE1MDUsNDgzODc4MjUxLDQwNDIwMTU0MiwxMDUyMzIxMjU4
+XX0=
 -->
