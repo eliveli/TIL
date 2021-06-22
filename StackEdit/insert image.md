@@ -55,15 +55,12 @@ https://support.google.com/photos/thread/10444052/problem-uploading-link-for-mar
 - 이미지 더블클릭 - 우측 상단에 있는 점 세개  -  ```공유``` 클릭
 
 ![enter image description here](https://lh3.googleusercontent.com/hgpiH7HLvwNvw79YaczBbd_8KP2dzv8fWXRplHKlvAEVuc0S9Z2Hn6vBnMQd-kkUaRcAIws_hBSGSHK7TYbLJp81bwd73MqmDDLa1J4oyxP5q5bAyntZhgcmKuKF064xuaupLLprlWMwZuqC2xxfLvAQL51dOv_0zMv-0GYuILI3ajXYpp4gwHI0zL3JS838YApGQzkywrLpc8BE0v__d538yWch7FFT2thKVCAlhIWAA8FFBnl6a2CgC3xEOGAoiD4F4CBcSpicL3hGa8t_Mf8s37QzQ313-i0aj5Cwzb6hXux3q0GuH-umYlKWa67oSmxgB4d3plSxQDVTq4EORN223GKfvWBFp7zztrS_hXELB8xhLqOgylSy10GIkPmBhzt-1ZJKK3Xfb3YR4E6_51KiEoshneSrQoiP7RE6MD_dvDBTbtxaKLXwEoG-xgf8vYVbTF6T-9nDhdOmKoT2QROr8jYeuhg2aqYlBsd24YbIJCjVQkVnbJegmTpVIRv641PTP8mua4jWmv0UFoOn332Tt9r5cXGtnAUiQkOlNxesgK7yvZPhy8ZPC018wQO7qgAaOFGtIvu03zcNPJiSmxqbVR5aoJjX1sQ7kWQZmYWuLRVi72gWrGJxMOJ3q4330P4h0gLNS93kwKq42uUjg2rNfl2pz-bspCfDTmKpr_k4CN_xW6uf9YKQrFLmuAC6sSsBXwzjeglkLmOqEsKVa1dw=w427-h553-no?authuser=0)
-<br>
+<br><br>
 - ```링크가 있는 모든 사용자로 변경``` (필수인지는 잘 모름)
 -  ```링크 복사``` 
 -  스택에딧 복귀
 
-
-
-
-
+![enter image description here](https://lh3.googleusercontent.com/skJjdFbs9YHvctgseGsbK79tsL_KdvxJKf09aRxXp_fVy9lRMdAeECnfeY3C8nXUfl2gj0G6-P-U7q4l-X2gxiD6W_munE36PdZzKFsnkAz-HHH_e1z_heGMYWJuIVnEWbvALArcjTeDzAuMCcKzNC7QWq29ds-0K7P2skAa4A2mr2DxcobTZTSQQWUAm67NxQoTDxbaJ49ACy9_xgdGZORB1Xoapz8Tmm4mQhG8FxCjaJvJ2HpZ1BVhlAXgwmTvf2lJAeIVPMOpEnP333GvgJyMhv1rzSaRmrbxH6ehTXfjIXrINRpSY9xwdpcyRNMuL7NaCA5_Yg4p8vjFxUSLkvyyQ6CXnjKXpo3STZT87D08CpzNfPH38JD9NpIr6Kp9ZzZSxqWdfIpKXXRWNkQ5iyuxy5yNCIEf2XGNnJGKaQ_OPbgfqw2Icrwf381e7RFsbywnkm-7HiMj67HXX4LymRPVZC7g200hzuiMu6GYMhSnhVKcjDgwBurajq0LKLHSOEZkgKzqajl74dfP1qxfaPzgIv0Kb1x5Es_KP5-L9bDdkHuBT_5wG9GuleNnZh0OrAUfiFx278FYAjLTdKIUA2XDipKFkzrMLp3YGGF_sxjWLtQX5FfUvL_1qc5_euHU6VOUzVmj7F4SyjMDs71GvaIa6zfYqUBnpdvJ9vXtOKZkBwuz7OsCzCCeet17n9A7uLg3Cg00de8FdQQil4RzHEIA=w747-h807-no?authuser=0)
 - 스택에딧, 상단 바 맨 오른쪽 ```이미지삽입아이콘``` 클릭
 - ```링크 붙여 넣기```
 
@@ -128,9 +125,9 @@ https://support.google.com/photos/thread/10444052/problem-uploading-link-for-mar
 <br>
 #### -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTUxODQ3MywyMTM4ODk1MDg1LC0yMT
-A2MzU1MDI3LC00NTI4OTUwMDUsOTQxMDEzNDEyLDc4MjQxMzc4
-LDYzNTk5MjU4MSwtMTAxNzE4MzczOSwtNDUwNDc4NjIyLDE4Nj
-kzNTgwNjIsLTkzNjEwMjcwMCwxNTA3MzE1NzM3LDE4MTA2NDQ1
-MDUsNjE5Mjk1MDY5XX0=
+eyJoaXN0b3J5IjpbLTEyNjE4NTQ3NjYsMjEzODg5NTA4NSwtMj
+EwNjM1NTAyNywtNDUyODk1MDA1LDk0MTAxMzQxMiw3ODI0MTM3
+OCw2MzU5OTI1ODEsLTEwMTcxODM3MzksLTQ1MDQ3ODYyMiwxOD
+Y5MzU4MDYyLC05MzYxMDI3MDAsMTUwNzMxNTczNywxODEwNjQ0
+NTA1LDYxOTI5NTA2OV19
 -->
