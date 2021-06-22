@@ -1,4 +1,4 @@
-# when publishing http 404 error
+# when publishing ***HTTP 404 ERROR***
 When I tried to publish my file many timesfrom StackEdit to GitHub, ***http 404 error*** made me sad.
 Now I have solved the problem, I feel really really happy...!
 
@@ -29,7 +29,8 @@ Look the word and the sentence.
 If not supplied, the ```master``` branch will be used.
 
 optional manes not optional..
-If your repository branch name is 'main', you will take 
+If your repository branch name is 'main', you will see t
+
 
 
 
@@ -170,6 +171,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDk5NTM4OSwtMTQ4OTI2MTUwNSw0OD
+eyJoaXN0b3J5IjpbMTkwMDU4NjU3MywtMTQ4OTI2MTUwNSw0OD
 M4NzgyNTEsNDA0MjAxNTQyLDEwNTIzMjEyNThdfQ==
 -->
