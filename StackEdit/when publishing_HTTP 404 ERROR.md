@@ -28,8 +28,7 @@ If not supplied, the <code>master</code> branch will be used.</p>
 <p>optional means not optional…<br>
 If your repository branch name is ‘main, you will see the alert below.<br>
 <em><strong>HTTP 404 ERROR</strong></em></p>
-<p><img src="https://.google" alt="http 404 error"></p>
-<p>usercontent.com/uc?id=1KIEbPQiNf-3yuTX3nq7KOOtI8Oy02Cqy)
+<p><img src="" alt="http 404 error"></p>
 
 In my case, I never had changed my branch name,  <em><strong>main</strong></em> the default name.<br>
 And when I tried to get <code>how to use StackEdit</code> in my mother’'s language,<br>
@@ -45,7 +44,7 @@ and also Korean not English who can get many information easy…</p>
 <p>
 First thing is to input your branch name default <em><strong>main</strong></em> on StackEdit.<br>
 (If the name is not main, type your own name.)<br>
-<img src="https://.googleil3sm" alt="input your branch name correctly"></p>
+<img src="" alt="input your branch name correctly"></p>
 <h2 id="branch-master-on-github">branch <em><strong>master</strong></em>usercontent.com/c1eA0k4cY-qeB4T32MzYeCc9Ai4lq6ziVjxhS3dCpYbxDFMY68Oj-v0M_u2ve9Hz5UDK-hUqZvYRfEjrfqoBdxq70KoYDUA-Y0cYXM9g3FZKl2KoKPjMDLdExNqo2eqkQsyRxPCY1IExFDCgMLsz_ybeZ6pE5FE9mrTZvevJYoNLVJPUVFdsLn9ZZ8wdecmwL_pQEBGYUdBlav5vRMWkYvkegrnEnPEA0e3NZsgBpae6d71mUeJ3nxnbW1QtYaNuCscEToV1wOPfeXkepyxLZaKsZTRaziu2Gz996YDrat9EToteMP3iKAmuX6i1SA3EMPFeg1cBXJuTVv2ucSsNIceFzSiUhktutZ3H9UE-Ea-31k4uAy3Jree-gVHP9QIO4zpC0bOmdMmMVSV9l8y_dVOBuYe6P9RZFNoPOgzGUmW9Ye5blRj5Un9sex4KNkcXLf94B--oDs8PXTbuUU64qINrS_e9M8tqF3Gb2rKKLAGHPNT_i-MLa4h0McB_FB3_-eGsvhV7ysZrCQcya_-Dsem79Npu1J_3fhapzoLX8-IA_yS3yS_LXLz8PIOdCFBSrCVso3XEQ9fUS6Ug6SSykqpke9DJ3Cfs1UTUA2ifAzqnX2W7agd5JTur3YwAbXrsn6bzde6_JSd2tAGHG5ohjJo0HkUkX_GdgNWm3951YTy7jxQxeFyGdacwG9abx1m4ySGkPrrHRSrUZ6UYduS0LjwX=w454-h653-no?aut on GitHub</h2>
 <p>
 Second is changing your branch name to <em><strong>master</strong></em> on GitHub.<br>
@@ -76,5 +75,5 @@ Anyway, you all have a nice day!</p>
 -2021.06.22-</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjQ1OTY1NiwyMTM4NjU1Njk1XX0=
+eyJoaXN0b3J5IjpbLTE2MzA1OTYzOTIsMjEzODY1NTY5NV19
 -->
