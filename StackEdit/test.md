@@ -39,7 +39,7 @@ And when I searched and get some information about ```how to use StackEdit```,
 there were no info about it.
 They just told me that 'that is optional' and you don't need to write down in it.
 
-It is so sad that there was no information (at least 
+It is so sad that there was no information about it (i I met
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -178,7 +178,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjEwNTUyMDgsNjk0MzAyMzMwLC0xND
-g5MjYxNTA1LDQ4Mzg3ODI1MSw0MDQyMDE1NDIsMTA1MjMyMTI1
-OF19
+eyJoaXN0b3J5IjpbNzcyNTc2Nzc2LDY5NDMwMjMzMCwtMTQ4OT
+I2MTUwNSw0ODM4NzgyNTEsNDA0MjAxNTQyLDEwNTIzMjEyNThd
+fQ==
 -->
