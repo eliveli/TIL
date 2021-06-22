@@ -45,8 +45,8 @@ I am beginner in both GitHub and StackEdit,
 and also Korean not English who can get many information easy...
 
 
-Anyway, I could solve it by two ways.
-##  enter your branch name correctly
+Anyway, I could solve it in two ways.
+##  correct branch
 First thing is that to input your branch name correctly on StackEdit.
 (If the name is default ***main***, type it.)
 ![input your branch name correctly](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%804.PNG)
@@ -197,7 +197,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1NDE1NDYyLDU2MDE0MzYwNywtMTIzMD
-c3OTUwLC03NDU1MzYzNTUsNjk0MzAyMzMwLC0xNDg5MjYxNTA1
-LDQ4Mzg3ODI1MSw0MDQyMDE1NDIsMTA1MjMyMTI1OF19
+eyJoaXN0b3J5IjpbLTgxNTI0ODgxNSw1NjAxNDM2MDcsLTEyMz
+A3Nzk1MCwtNzQ1NTM2MzU1LDY5NDMwMjMzMCwtMTQ4OTI2MTUw
+NSw0ODM4NzgyNTEsNDA0MjAxNTQyLDEwNTIzMjEyNThdfQ==
 -->
