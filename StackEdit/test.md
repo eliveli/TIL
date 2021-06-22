@@ -23,8 +23,10 @@ so I will write down Korean my mother's language...
 
 ![look the word master](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%802.PNG) 
 
-Look the word  ```Branch — optional```   
 
+Look the word and the sentence
+ ```Branch — optional```  
+If not supplied, the master branch will be used.```
 
 
 
@@ -165,12 +167,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJkaXNjdXNzaW9ucyI6eyJjOXVRdFM4MWZURU5jbVV5Ijp7In
-N0YXJ0Ijo4MzcsImVuZCI6ODMzLCJ0ZXh0IjoidSJ9fSwiY29t
-bWVudHMiOnsiUnlXWGdWWU5VcVNCVFh0UiI6eyJkaXNjdXNzaW
-9uSWQiOiJjOXVRdFM4MWZURU5jbVV5Iiwic3ViIjoiZ286MTA1
-Mzg3MDIwMjY4MDk5MTYxNDY5IiwidGV4dCI6Imxvb2sgXCJtYX
-N0ZXJcIiIsImNyZWF0ZWQiOjE2MjQzMzA5NjY2MjV9fSwiaGlz
-dG9yeSI6WzE4MjIxOTc2MDEsLTE0ODkyNjE1MDUsNDgzODc4Mj
-UxLDQwNDIwMTU0MiwxMDUyMzIxMjU4XX0=
+eyJoaXN0b3J5IjpbLTY1ODE5MTc2NCwtMTQ4OTI2MTUwNSw0OD
+M4NzgyNTEsNDA0MjAxNTQyLDEwNTIzMjEyNThdfQ==
 -->
