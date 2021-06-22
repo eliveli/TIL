@@ -47,8 +47,8 @@ and also Korean not English who can get many information easy...
 
 Anyway, I could solve it in two ways.
 ##  branch ***main*** on StackEdit
-First thing is that to input your branch deault ***main*** on StackEdit.
-(If the name is default ***main***, type it.)
+First thing is to input your branch name default ***main*** on StackEdit.
+(If the name is not main, type your own name.)
 ![input your branch name correctly](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%804.PNG)
 
 ## branch ***master*** on GitHub
@@ -198,7 +198,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzk1ODU2NSw1NjAxNDM2MDcsLTEyMz
-A3Nzk1MCwtNzQ1NTM2MzU1LDY5NDMwMjMzMCwtMTQ4OTI2MTUw
-NSw0ODM4NzgyNTEsNDA0MjAxNTQyLDEwNTIzMjEyNThdfQ==
+eyJoaXN0b3J5IjpbLTEzNzUxMTEyNTAsNTYwMTQzNjA3LC0xMj
+MwNzc5NTAsLTc0NTUzNjM1NSw2OTQzMDIzMzAsLTE0ODkyNjE1
+MDUsNDgzODc4MjUxLDQwNDIwMTU0MiwxMDUyMzIxMjU4XX0=
 -->
