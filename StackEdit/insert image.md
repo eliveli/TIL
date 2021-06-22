@@ -4,7 +4,10 @@
 먼저 내가 성공한 방법부터 소개하겠다.
 >	 ~~0번만 보세요. 나머지는 다 버려~~
 ## (최종) 0. 구글 포토 앨범_이미지 링크 복사 
-
+- 구글 포토 접속
+- 사진 선택
+- 우측 점 세개
+- 
 
 
 
@@ -93,7 +96,7 @@
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDE2NTY1MCwtNDUwNDc4NjIyLDE4Nj
-kzNTgwNjIsLTkzNjEwMjcwMCwxNTA3MzE1NzM3LDE4MTA2NDQ1
-MDUsNjE5Mjk1MDY5XX0=
+eyJoaXN0b3J5IjpbMzI2MDE1NjIwLC00NTA0Nzg2MjIsMTg2OT
+M1ODA2MiwtOTM2MTAyNzAwLDE1MDczMTU3MzcsMTgxMDY0NDUw
+NSw2MTkyOTUwNjldfQ==
 -->
