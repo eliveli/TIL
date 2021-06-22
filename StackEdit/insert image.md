@@ -3,10 +3,12 @@
 스택에딧에서 처음 이미지를 첨부한다면 여러 난관에 부딪히게 된다.    
 먼저 내가 성공한 방법부터 소개한다.
 - **0번 최종 성공**💕
+>	0번 방법으로 포스팅의 오류 난 사진 다시 올림    
 >	 ~~- 1, 2 불완전(필요 시 참고)~~   
 >	1번은 링크 몇 개만 작동      
 >	 2번은 한 개만 시도하고 성공해서 결론 짓기 어려움          
 >	(+2번에서 참조한 블로거 설명으론 추천하는 방법이 아니라는 듯)   
+
 ## (최종) 0. 구글 포토 앨범_이미지 링크 복사 
 - 구글 포토 접속
 - 앨범을 만들어 사진 추가
@@ -18,7 +20,7 @@
 - 앨범에 보이는 사진 중 하나 선택
 
 
-![enter image description here](https://lh3.googleusercontent.com/5gR-hDJOU98nOVTVbF4IleFdupf1YfWJcnReFFrFAgW7nnn4JiGYZAC2CBCBEkZim5zphpGt8zqny-0AsVpAV4pEq4knpfUeRhevjqCoiCY4wtbYT6Ro7Pgu6_EcHoPpLtgwvEzJwSX-gkRZUr17HzFMtFpbdT-ITExa2iPLPv4QQZQWf7dDDtMMHTDQ9rvZyQdOpcheNXLkO3_7B1UeFdkKUj3E8hbWFUXxjsz1mZhGbRCq8ITITKAb9U8wW1wtzbTai30z7-xW4AOrfc3BSktCDZGRwVPwKlne1wexwaFCXvyyAKi6THOKAkwk8TbunbbP9GSjg8j2IKEUEOZUUmA0gqCKJG7Nnq4teo783Z-ivpkeghbPr8r0byaD8Z3AL_I0cUcCiIot_oigR5xtj0vnzO_FRJ--SypmRC4YWHjqG0rsvDwwxf6e2Xc4zfWCPSRJMIlq8nPs6eMj4k0oIVDvnWwwSLGz6cNGZXAxOc_8dGttMZrpSx81urmkgzUpQhje4DeA5pVwW6zzZe7cwgfkuEerP54HDzsxZWHz3xL73UEA644a2L122X2w4tqHBwxJj1XA5kASfCiUA8F7QZtTwox_v97Nn23Mnlf4aQOi7DrEY9siq0HNo233IZjX4Q-t4idqznCQGqcGSujHT9ft-6aUyYXu5c3pwSdBBQtOpnObw7Zw4IIzP0munubsA6Ho9hDBexrzUdc-3RRuGnwW=w564-h420-no?authuser=0)
+![enter image description here](https://lh3.googleusercontent.com/7zVNkQ1fq8-l_6NAjPdYXX89Yc0buHw4guNoFE9vBJnd429v5iHtKFSMazCCQLGYOTRcu2HviWTGGn-IEDOKzjvykE1D-xIWgSxZRrl3w6gux8ML5zMDghJ_XhinDVCfq42S8RKlzuMOO8CVBWVUtk6I27g2M_AjAPtI_fgdRUJLS6tuIQwl07fJ1iCFREWGE4cY9xpSNk0p3w8zRUfRrM2GJDPY_ckr4pUWO3dy8z1peNdpFPrtSPaSrpaZ7KAKNFZ7M6VkUlTION82LmIRer9ksAXG8ZUEeb-CiBbxaSeyIWXtYWjg2YXRh0opnNoPZe8y8bInjgsLkZt6Bn3pr2SV_lxFzPmSWdSBmvzmU0MLfoDVVLAdIqY3XaOj7gq43GZaoCieKLHcUcy0FWeJ1ywJB9DBm41T5wdN7OczbghMlAXrHzsltjLWx_2V5BUaC2NWWs5gdBW88akg1CHE3LUJgR-rcHv7xJRk9ccQvjXk4LEmLR8G43aixFlD0GuoW_dLjSFx0aSm9kCZm_8cLho2_v4zqWJvtDHs8gRgIOYVOVOv6kgJ6sQG9v6h_gfx1dthXiz0GSGXUHzNY_aL0de_0TP7RqdbSi2SkU3ggGucnX_f9nm4J5w7FS93pyukvFTpwbg71fFrZsTZJioOkbTEYhsycJJBRmg4_00vhiH02heyxxMLEFXEpmKlWX_nabNdoDvNwjbMSOoKulWf5VNm=w426-h404-no?authuser=0)
 <br><br>
 
 
