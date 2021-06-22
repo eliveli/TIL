@@ -1,16 +1,19 @@
 # when publishing http 404 error
 When I tried to publish my file from StackEdit to GitHub, ***http 404 error*** made me sad.
-And now I have solved the problem, I feel really really happy...!
+Now I have solved the problem, I feel really really happy...!
 
 In short, the reason I took the trouble is about the ***branch***.
 
 Usaually simple is not simple, is something difficult for someone
-and that is me haha :)
+and that is me  :)
 
 In the below I write down the process I met the problem and solve it.
 
+...
 Writing English is not easy for me
-so I write Korean my mother's language
+so I write Korean my mother's language...
+
+##
 
 
 
@@ -157,11 +160,11 @@ C --> D
 ```
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJjOXVRdFM4MWZURU5jbVV5Ijp7In
-N0YXJ0Ijo1NDksImVuZCI6NTUwLCJ0ZXh0IjoidSJ9fSwiY29t
+N0YXJ0Ijo1NTIsImVuZCI6NTUzLCJ0ZXh0IjoidSJ9fSwiY29t
 bWVudHMiOnsiUnlXWGdWWU5VcVNCVFh0UiI6eyJkaXNjdXNzaW
 9uSWQiOiJjOXVRdFM4MWZURU5jbVV5Iiwic3ViIjoiZ286MTA1
 Mzg3MDIwMjY4MDk5MTYxNDY5IiwidGV4dCI6Imxvb2sgXCJtYX
 N0ZXJcIiIsImNyZWF0ZWQiOjE2MjQzMzA5NjY2MjV9fSwiaGlz
-dG9yeSI6Wzc3NDYxNzM0MSw0ODM4NzgyNTEsNDA0MjAxNTQyLD
-EwNTIzMjEyNThdfQ==
+dG9yeSI6WzE5MTYzMTY3MzksNDgzODc4MjUxLDQwNDIwMTU0Mi
+wxMDUyMzIxMjU4XX0=
 -->
