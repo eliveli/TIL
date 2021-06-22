@@ -56,18 +56,18 @@ https://support.google.com/photos/thread/10444052/problem-uploading-link-for-mar
 -  ```링크 복사``` 
 -  스택에딧 복귀
 
-![enter image description here](https://drive.google.com/uc?id=1Xse6Lkq8mA3RDY2eq883ZHE1hSA74RDA)
+![enter image description here](https://lh3.googleusercontent.com/hgpiH7HLvwNvw79YaczBbd_8KP2dzv8fWXRplHKlvAEVuc0S9Z2Hn6vBnMQd-kkUaRcAIws_hBSGSHK7TYbLJp81bwd73MqmDDLa1J4oyxP5q5bAyntZhgcmKuKF064xuaupLLprlWMwZuqC2xxfLvAQL51dOv_0zMv-0GYuILI3ajXYpp4gwHI0zL3JS838YApGQzkywrLpc8BE0v__d538yWch7FFT2thKVCAlhIWAA8FFBnl6a2CgC3xEOGAoiD4F4CBcSpicL3hGa8t_Mf8s37QzQ313-i0aj5Cwzb6hXux3q0GuH-umYlKWa67oSmxgB4d3plSxQDVTq4EORN223GKfvWBFp7zztrS_hXELB8xhLqOgylSy10GIkPmBhzt-1ZJKK3Xfb3YR4E6_51KiEoshneSrQoiP7RE6MD_dvDBTbtxaKLXwEoG-xgf8vYVbTF6T-9nDhdOmKoT2QROr8jYeuhg2aqYlBsd24YbIJCjVQkVnbJegmTpVIRv641PTP8mua4jWmv0UFoOn332Tt9r5cXGtnAUiQkOlNxesgK7yvZPhy8ZPC018wQO7qgAaOFGtIvu03zcNPJiSmxqbVR5aoJjX1sQ7kWQZmYWuLRVi72gWrGJxMOJ3q4330P4h0gLNS93kwKq42uUjg2rNfl2pz-bspCfDTmKpr_k4CN_xW6uf9YKQrFLmuAC6sSsBXwzjeglkLmOqEsKVa1dw=w427-h553-no?authuser=0)
 <br>
 - 스택에딧, 상단 바 맨 오른쪽 ```이미지삽입아이콘``` 클릭
 - ```링크 붙여 넣기```
 
-![enter image description here](https://drive.google.com/uc?id=1PG9ZhXxx6HvRcYC3WHt-833v0qSXaac5)
+![enter image description here](https://lh3.googleusercontent.com/w-LCYadetr7HSwFjjJ3c3N8-6u7x--4zBfrMazdnc-Tb4kMjVhXilq5pUapEuieTZFYDiNEHS9Rmsv_o2bXe4KSgqQs147_O3Hc8RUzBNFRF5TFgTofMqW_9NRhVE-ubdQr5sliVKAHAzKQXu8G0qXtWbGDi8MQ6WCmTNp2mxMTdCiFA3sHHEoTFCPvZKiBEulDZHpJNhs-627SKm0cth0CyaCKQqmdWBhS-1StfMBt-qEPC8fi7p7sYoKP3wBzH-xs2nLW8Xw25zoCdS-jZJ9ipKu7oyXDt8Zvo9f9AuCDC_wprWckZ2CdIBxSfOzyjD_Y2sszBbUCnk4aFRuygtq965Ib-7CMYu1gxmkmTbiXK3ClzJY1GHrj_n7djxme-Pw1Vfz-Mei_8KtkyLfvXnRQ_X9CZbV4UpNfozuUvL9fK22gTugH3BB5wxIoMLE2KnKcAuZjNMERXdufFYEBpAob3FYcUGewPbBMNR_0TL_YCAvPzBxH9v7lxSLaQFoEiu6E2FpUOMZ2kO-ValYZBTVYeCoEcj-KDIdeT5rgpLpb3MxAnEGBAicSOczCXGnrax84JnNwM9juVNfKYIMeLpNmmdQRr5ZxwFpw4cVEmCsGaar42Urm4od_-M9p-7G91GnyDeqEs1H2Shda3AHwjR1YTCH0L_KVDyStJFnxjHFc2vGHmCSIcGF_ilQnQZoolZGpbfgca7pXwXj1Htj0J6f0V=w530-h384-no?authuser=0)
 <br>
 - url 에서 블럭 잡은 부분 기준
 	>앞쪽 ```file/d``` 지우고 ```uc?id=``` 입력    
 		뒤쪽 ```/view?usp... ```  끝까지 지우면 완료!
 
-![enter image description here](https://drive.google.com/uc?id=1wWl_j0107m6-FRChXSbvcFS4SGD-Pkmd)
+![enter image description here](https://lh3.googleusercontent.com/NNteTaRbGEZcETKViixa9GBAkXbumA7vUj5bNElWY-N6e2o6HCsEtQ3TCJMk_wwAyqz1Yx2Ex05bOWZLC9PWLWrEKvJZMdrq81Ku9xJJXzN8Q9PgC9CCn69qZrTs7IhbgV_fnXQ8EZzmQKpGe29MRKvnDc5wVyAxpOWYBGpErADTsISTUJwiVQCby7vykHK0CWmLJmvvRwI_dD469xvdDt7f_hNdgyGA6ky-sfXXb4JsrbpYfCHYr3eHCDlyfIogqynzYr-oqcwa6DyDIrOi_7jG_STyBxnHrAjBLM9yxEC8BLuEhuxE0WeNMxikb0nNRcckX-4Mzg5pxGfrUguxKppx6lhmLZsh1Fc1XHhODln9eHJ8QsTJlCM2RnIKLiQJinuGeDUWOLk2F8pgXRRlb27t-FWtgGnMEbwBAc-Q5FOXDnYCJGMEQGPQBo-hcfdxUjUSj3pOvRklPMR6x-BWEgXp7MndonWZVfnz9ByIs5PH77m5IItYNRtKYICwNiiIeFWKZxHYWa_bj6M9IGwSyjr3zM3-m5h_N50BzXjlTgPI0Hs9LirMLagvVPYOGjkFy81jRyfrVI7RIfn2c1BdNWWWz4tiTgTdEpTQ7WXYAHoLtQ1naz35TJeEuvibabi5KXz8dQPYMvb5cHBJV4xcrXqRpBPvwop0wfmhX9lMGAYDaI8clkM3aXtoWNgEV75ZJkkockq3fw1ZAvJgnah9JMhM=w564-h92-no?authuser=0)
 
 
 [참조] https://wemakepricepartner.tistory.com/132
@@ -122,8 +122,8 @@ https://support.google.com/photos/thread/10444052/problem-uploading-link-for-mar
 <br>
 #### -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODc5OTYxNjMsOTQxMDEzNDEyLDc4Mj
-QxMzc4LDYzNTk5MjU4MSwtMTAxNzE4MzczOSwtNDUwNDc4NjIy
-LDE4NjkzNTgwNjIsLTkzNjEwMjcwMCwxNTA3MzE1NzM3LDE4MT
-A2NDQ1MDUsNjE5Mjk1MDY5XX0=
+eyJoaXN0b3J5IjpbLTQ1Mjg5NTAwNSw5NDEwMTM0MTIsNzgyND
+EzNzgsNjM1OTkyNTgxLC0xMDE3MTgzNzM5LC00NTA0Nzg2MjIs
+MTg2OTM1ODA2MiwtOTM2MTAyNzAwLDE1MDczMTU3MzcsMTgxMD
+Y0NDUwNSw2MTkyOTUwNjldfQ==
 -->
