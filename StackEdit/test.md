@@ -44,7 +44,8 @@ It is so sad that there was no information about it (at least when I searched).
 I am beginner in both GitHub and StackEdit,
 also Korean not English who can get many information.
 
-Anyway, I solved it 
+Anyway, I solved it.
+
 
 
 
@@ -186,7 +187,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3Nzc2NDcxLDY5NDMwMjMzMCwtMTQ4OT
+eyJoaXN0b3J5IjpbNTY1NDIzODYzLDY5NDMwMjMzMCwtMTQ4OT
 I2MTUwNSw0ODM4NzgyNTEsNDA0MjAxNTQyLDEwNTIzMjEyNThd
 fQ==
 -->
