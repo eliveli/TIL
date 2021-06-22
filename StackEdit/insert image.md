@@ -18,7 +18,7 @@
 <br>
 - 오른쪽마우스 클릭
 - ```Copy image adress```
-- 스택에딧에서 ```이미지 아이콘``` 클릭해 붙여넣기
+- 스택에딧, 우측 상단 ```이미지 아이콘``` 클릭, 링크 넣기
 
 ![enter image description here](https://lh3.googleusercontent.com/OK60C6WKs10ebRsL8UOzjLxF37PZfQaFqYtGKaPfRq7oRvwUACX8nHzdGo6r6v4MTyF0C5Sjr0hKkiDJY1ImOs4iOhu-SUpATgTnvbsB6q2-eB9a2YFiwjmjuD-yTVJeuIbniHqcs1wJN_0CbLKwLcQ8FqoQ7rVII0FmGeuA50LlLLjd9woPB7eqesJ1S-QP43ezGNL1gS3ShobtNzmc3V07ASs94YGWvYXrbFLA26_Ipx2PCjZ0J5JFtYwn-kK7x8I2QJyHG97Xw6U2_yPczYm-9jhIXU_WT3NuNhMREd6iqasQ0hugMX4IGZhpgS4rKxtZqlSh29fUOqCXo_KsW-GMdCZCM2YVcuVIFnyN-HWG6wYOjKE2MPsooW1FxCRhTIBkyXW6AWjawATYT-KkOOJb6tXdpUtrKdaWKsT7BRBflmGF-3deMVCuVQ-uZPQmfkcihgABG480e8Z01gVdEmMnrDb80NzErEhh3Nt9SDMXYPsG0hSgI5ZWnOXfMfbkMat4MTxlLPwZTKBiwKhu_Ae2VEggOWeS0Tb-4A96H8Zj50xUfDfeS6x7UjxUg_MLOsqmgmHMtJ4SB1Tm25BsA-cli5P0RC5LXK51dbxZdaSrpNFUI_t-tU-zLQEZmdvJrG-tb31Mp_uFSjR25ak68xYPJBnCgh_fi1l10J9G3nsddowVPjpkrWTByKvYpG49mXQ1sRIQGs9P5DVlzBRlTmQd=w1038-h761-no?authuser=0)
 
@@ -30,9 +30,7 @@
 와 드디어 해냈다.<br>
 아래 참조 부분을 꼭 클릭해 보시라...! 친절히 설명 잘 해 주심ㅠㅠ<br>
 (구글 포토에서 이미지를 못 가져온 건 임베드 기능이 없어서구나.. 앨범으로는 가능해서 다행이다ㅎㅎ)<br><br>
-[참조] 
-https://support.google.com/photos/thread/10444052/problem-uploading-link-for-markdown?hl=en&msgid=14212672
-
+[참조]  https://support.google.com/photos/thread/10444052/problem-uploading-link-for-markdown?hl=en&msgid=14212672
 
 ## ~~1. 구글 드라이브 링크 공유~~
 - 구글 드라이브에 로컬의 이미지 업로드
@@ -113,7 +111,7 @@ https://support.google.com/photos/thread/10444052/problem-uploading-link-for-mar
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzAxMTM3Niw2MzU5OTI1ODEsLTEwMT
+eyJoaXN0b3J5IjpbMTI4NzQzNzYzNCw2MzU5OTI1ODEsLTEwMT
 cxODM3MzksLTQ1MDQ3ODYyMiwxODY5MzU4MDYyLC05MzYxMDI3
 MDAsMTUwNzMxNTczNywxODEwNjQ0NTA1LDYxOTI5NTA2OV19
 -->
