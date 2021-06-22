@@ -1,5 +1,5 @@
 # when publishing http 404 error
-When I tried to publish my file many times from StackEdit to GitHub, ***http 404 error*** made me sad.
+When I tried to publish my file many timesfrom StackEdit to GitHub, ***http 404 error*** made me sad.
 Now I have solved the problem, I feel really really happy...!
 
 In short, the reason I took the trouble is about the ***branch***.
@@ -17,9 +17,11 @@ so I will write down Korean my mother's language...
  하 슬프도다..
 아래는 덜 예쁜 폰트로 적은 것
 ## Clicking 'Publish to GitHub'
-![enter image description here](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%801.PNG)
+
+![click publish to github](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%801.PNG)
 
 
+![look the ](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%802.PNG) 
 
 
 
@@ -162,11 +164,11 @@ C --> D
 ```
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJjOXVRdFM4MWZURU5jbVV5Ijp7In
-N0YXJ0Ijo3MDksImVuZCI6NzA3LCJ0ZXh0IjoidSJ9fSwiY29t
+N0YXJ0Ijo3ODMsImVuZCI6NzgxLCJ0ZXh0IjoidSJ9fSwiY29t
 bWVudHMiOnsiUnlXWGdWWU5VcVNCVFh0UiI6eyJkaXNjdXNzaW
 9uSWQiOiJjOXVRdFM4MWZURU5jbVV5Iiwic3ViIjoiZ286MTA1
 Mzg3MDIwMjY4MDk5MTYxNDY5IiwidGV4dCI6Imxvb2sgXCJtYX
 N0ZXJcIiIsImNyZWF0ZWQiOjE2MjQzMzA5NjY2MjV9fSwiaGlz
-dG9yeSI6Wy03OTEyMzUxNjAsLTE0ODkyNjE1MDUsNDgzODc4Mj
-UxLDQwNDIwMTU0MiwxMDUyMzIxMjU4XX0=
+dG9yeSI6Wy0yMDg5MjI4MDc1LC0xNDg5MjYxNTA1LDQ4Mzg3OD
+I1MSw0MDQyMDE1NDIsMTA1MjMyMTI1OF19
 -->
