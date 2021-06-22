@@ -3,9 +3,9 @@
 
 ---
 
-<h1 id="when-publishing_http-404-error">when publishing_<em><strong>HTTP 404 ERROR</strong></em></h1>
-<p>When I tried to publish my file many timesfrom StackEdit to GitHub, <em><strong>http 404 error</strong></em> made me sad.</p>
-<p>Now I have solved the problem, I feel really really happy…!</p>
+<h1 id="http-404-error"><em><strong>HTTP 404 ERROR</strong></em></h1>
+<p>When I tried to publish my file many timesfrom StackEdit to GitHub, <em><strong>http 404 error</strong></em> made me sad.<br>
+Now I have solved the problem, I feel really really happy…!</p>
 <p>In short, the reason I took the trouble is about the <em><strong>branch</strong></em>.</p>
 <p>Usaually simple is not simple, is something difficult for someone<br>
 and that is me  :)</p>
