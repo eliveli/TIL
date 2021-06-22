@@ -10,7 +10,11 @@
 - ```앨범에 추가```
 - 사진 추가할 앨범 선택
 - 앨범에 들어가기
-- 앨범에서 특정 사진 선택(
+- 앨범에서 특정 사진 선택(화면에 선택된 것만 표시)
+- 마우스 왼쪽 클릭
+- copy image adress
+- 스택에딧에서 이미지 아이콘 클릭, url 인풋 박스에 붙여넣기
+- 주의. 
 
 
 
@@ -99,7 +103,7 @@
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ1MDM2MzgsLTQ1MDQ3ODYyMiwxOD
+eyJoaXN0b3J5IjpbLTEwMTcxODM3MzksLTQ1MDQ3ODYyMiwxOD
 Y5MzU4MDYyLC05MzYxMDI3MDAsMTUwNzMxNTczNywxODEwNjQ0
 NTA1LDYxOTI5NTA2OV19
 -->
