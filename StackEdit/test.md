@@ -54,8 +54,9 @@ First thing is to input your branch name default ***main*** on StackEdit.
 ## branch ***master*** on GitHub
 Second is changing your branch name to ***master*** on GitHub.
 ![change you branch name](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%805.PNG)
-In your repository, follow the stage.
-[ Setting > Branches > pencil icon (inside the box) > type "master" > click "Rename branch" ]
+In your repository, follow the steps.
+>``` Setting > Branches > pencil icon (inside the box) > type "master" > click "Rename branch" ```
+>
 After that, you can Publish from StackEdit to GitHub without typing in the branch input box.
 
 Also you can change your branch name another not master and publish to that renamed branch.
@@ -198,7 +199,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzUxMTEyNTAsNTYwMTQzNjA3LC0xMj
-MwNzc5NTAsLTc0NTUzNjM1NSw2OTQzMDIzMzAsLTE0ODkyNjE1
-MDUsNDgzODc4MjUxLDQwNDIwMTU0MiwxMDUyMzIxMjU4XX0=
+eyJoaXN0b3J5IjpbNDQyMzgzMTU5LDU2MDE0MzYwNywtMTIzMD
+c3OTUwLC03NDU1MzYzNTUsNjk0MzAyMzMwLC0xNDg5MjYxNTA1
+LDQ4Mzg3ODI1MSw0MDQyMDE1NDIsMTA1MjMyMTI1OF19
 -->
