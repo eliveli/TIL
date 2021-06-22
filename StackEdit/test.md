@@ -50,7 +50,8 @@ First thing is that to input your branch name correctly.
 ![input your branch name correctly](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%804.PNG)
 
 Second is changing your branch name to ***master***.
-
+![change you branch name](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%805.PNG)
+In your repository, follow the stage.
 
 
 
@@ -191,7 +192,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwMTQzNjA3LC0xMjMwNzc5NTAsLTc0NT
-UzNjM1NSw2OTQzMDIzMzAsLTE0ODkyNjE1MDUsNDgzODc4MjUx
-LDQwNDIwMTU0MiwxMDUyMzIxMjU4XX0=
+eyJoaXN0b3J5IjpbODg1MTE0MjUsNTYwMTQzNjA3LC0xMjMwNz
+c5NTAsLTc0NTUzNjM1NSw2OTQzMDIzMzAsLTE0ODkyNjE1MDUs
+NDgzODc4MjUxLDQwNDIwMTU0MiwxMDUyMzIxMjU4XX0=
 -->
