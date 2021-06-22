@@ -110,7 +110,7 @@ https://support.google.com/photos/thread/10444052/problem-uploading-link-for-mar
 	> 기간 제한이 있는 경우    
 	기간 제한은 없으나 클릭해도 웹사이트가 계속 로딩 중인 경우(Aㅏ...)
 - 구글 안내서 + flickr 
-	>포스팅 상단 0번 방법으로 해결 ~~얘는 중도 포기~~
+	>포스팅 상단 0번 방법으로 해결 ~~아래는 중도 포기~~
 	
 	> https://support.google.com/accounts/answer/9666875?hl=en    
 	
@@ -126,9 +126,9 @@ https://support.google.com/photos/thread/10444052/problem-uploading-link-for-mar
 <br>
 #### -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyNzkzOTA1LC0yMTA2MzU1MDI3LC00NT
-I4OTUwMDUsOTQxMDEzNDEyLDc4MjQxMzc4LDYzNTk5MjU4MSwt
-MTAxNzE4MzczOSwtNDUwNDc4NjIyLDE4NjkzNTgwNjIsLTkzNj
-EwMjcwMCwxNTA3MzE1NzM3LDE4MTA2NDQ1MDUsNjE5Mjk1MDY5
-XX0=
+eyJoaXN0b3J5IjpbMjEzODg5NTA4NSwtMjEwNjM1NTAyNywtND
+UyODk1MDA1LDk0MTAxMzQxMiw3ODI0MTM3OCw2MzU5OTI1ODEs
+LTEwMTcxODM3MzksLTQ1MDQ3ODYyMiwxODY5MzU4MDYyLC05Mz
+YxMDI3MDAsMTUwNzMxNTczNywxODEwNjQ0NTA1LDYxOTI5NTA2
+OV19
 -->
