@@ -29,8 +29,11 @@
 <br>
 와 드디어 해냈다.<br>
 아래 참조 부분을 꼭 클릭해 보시라...! 친절히 설명 잘 해 주심ㅠㅠ<br>
-(구글 포토에서 이미지를 못 가져온 건 임베드 기능이 없어서구나.. 앨범으로는 가능해서 다행이다ㅎㅎ)<br><br>
-[참조]  https://support.google.com/photos/thread/10444052/problem-uploading-link-for-markdown?hl=en&msgid=14212672
+(구글 포토에서 이미지를 못 가져온 건 임베드 기능이 없어서구나.. <br>앨범으로는 가능해서 다행이다ㅎㅎ)<br><br>
+
+[참조]
+
+https://support.google.com/photos/thread/10444052/problem-uploading-link-for-markdown?hl=en&msgid=14212672
 
 ## ~~1. 구글 드라이브 링크 공유~~
 - 구글 드라이브에 로컬의 이미지 업로드
@@ -95,7 +98,7 @@
 	> 기간 제한이 있는 경우    
 	기간 제한은 없으나 클릭해도 웹사이트가 계속 로딩 중인 경우(Aㅏ...)
 - 구글 안내서 + flickr 
-	> 0번 방법 찾음(~~중도 포기~~)
+	> (~~중도 포기~~)포스팅 상단 0번 방법으로 해결
 	
 	> https://support.google.com/accounts/answer/9666875?hl=en    
 	
@@ -111,7 +114,8 @@
 <br>
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzQzNzYzNCw2MzU5OTI1ODEsLTEwMT
-cxODM3MzksLTQ1MDQ3ODYyMiwxODY5MzU4MDYyLC05MzYxMDI3
-MDAsMTUwNzMxNTczNywxODEwNjQ0NTA1LDYxOTI5NTA2OV19
+eyJoaXN0b3J5IjpbLTIxMDc0MTM1MzAsNjM1OTkyNTgxLC0xMD
+E3MTgzNzM5LC00NTA0Nzg2MjIsMTg2OTM1ODA2MiwtOTM2MTAy
+NzAwLDE1MDczMTU3MzcsMTgxMDY0NDUwNSw2MTkyOTUwNjldfQ
+==
 -->
