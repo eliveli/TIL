@@ -52,7 +52,7 @@ Second is changing your branch name to <em><strong>master</strong></em> on GitHu
 In your repository, follow the steps.</p>
 <blockquote>
 <p><code>
->``` Setting &gt;> Branches &gt;> pencil icon (inside the box) &gt;> type "master" &gt;> click "Rename branch"</code></p>
+>``` Setting &gt; Branches &gt; pencil icon (inside the box) &gt;> type "master" &gt;> click "Rename branch"</code></p>
 </blockquote>
 <p> ```
 >
@@ -66,8 +66,7 @@ And also you can change your branch name another not master<br>
 Typing English is difficult…<br>..
 not correct grammar…<br>
 sigh</p>
-<p>...
-sigh
+<p>
 
 Anyway, you all have a nice day!</p>
 <p>
@@ -75,5 +74,5 @@ Anyway, you all have a nice day!</p>
 -2021.06.22-</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDQzMzU4MywyMTM4NjU1Njk1XX0=
+eyJoaXN0b3J5IjpbNTkxMzMyMzcyLDIxMzg2NTU2OTVdfQ==
 -->
