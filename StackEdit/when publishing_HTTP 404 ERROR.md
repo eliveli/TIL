@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="http-404-error"><em><strong>HTTP 404 ERROR</strong></em></h1>
 <p>When I tried to publish my file many timesfrom StackEdit to GitHub, <em><strong>http 404 error</strong></em> made me sad.<br>
 Now I have solved the problem, I feel really really happy…!</p>
@@ -20,6 +15,7 @@ so I will write down Korean my mother’s language…<br>
 아 힘들다 영어 좀 잘했으면</p>
 </blockquote>
 <h2 id="look-the-word-master">look the word <em><strong>MASTER</strong></em></h2>
+<img url = "C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%801.PNG" />
 <p>![click publish to github](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%801.PNG)</p>
 <p>![look the word master](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%802.PNG)</p>
 <p>Look the word and the sentence.</p>
