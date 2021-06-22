@@ -67,7 +67,7 @@ Typing English is difficult..
 not correct grammar...
 sigh
 
-Anyway, 
+Anyway, everyone cheer up and ge
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -206,7 +206,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1NjU2NjAxLDU2MDE0MzYwNywtMTIzMD
-c3OTUwLC03NDU1MzYzNTUsNjk0MzAyMzMwLC0xNDg5MjYxNTA1
-LDQ4Mzg3ODI1MSw0MDQyMDE1NDIsMTA1MjMyMTI1OF19
+eyJoaXN0b3J5IjpbLTEzMjkzOTY1OSw1NjAxNDM2MDcsLTEyMz
+A3Nzk1MCwtNzQ1NTM2MzU1LDY5NDMwMjMzMCwtMTQ4OTI2MTUw
+NSw0ODM4NzgyNTEsNDA0MjAxNTQyLDEwNTIzMjEyNThdfQ==
 -->
