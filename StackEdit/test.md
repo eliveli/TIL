@@ -1,5 +1,4 @@
 # ***HTTP 404 ERROR***
-![enter image description here](https://drive.google.com/uc?id=11knVBfY5EFLd5qYJXXsPNlGq7a3zI4Rx)
 When I tried to publish my file many timesfrom StackEdit to GitHub, ***http 404 error*** made me sad.    
 Now I have solved the problem, I feel really really happy...!
 
@@ -20,9 +19,9 @@ so I will write down Korean my mother's language...
  아 힘들다 영어 좀 잘했으면
 
 ## look the word ***MASTER*** 
-![click publish to github](https://drive.google.com/file/d/1hlbmEkal1vPVBdUyuOgZQNu5gtqVIh2i/view?usp=sharing)
+![click publish to github](https://drive.google.com/uc?id=1hlbmEkal1vPVBdUyuOgZQNu5gtqVIh2i)
 
-![look the word master](https://drive.google.com/file/d/1Nft2WtonQZwj6aLVoAMrEzcOcqZROIM_/view?usp=sharing) 
+![look the word master](https://drive.google.com/uc?id=1Nft2WtonQZwj6aLVoAMrEzcOcqZROIM_) 
 
 
 Look the word and the sentence.
@@ -33,7 +32,7 @@ optional means not optional..
 If your repository branch name is 'main', you will see the alert below.
 ***HTTP 404 ERROR***
 
-![http 404 error](https://drive.google.com/file/d/1KIEbPQiNf-3yuTX3nq7KOOtI8Oy02Cqy/view?usp=sharing)
+![http 404 error](https://drive.google.com/uc?id=1KIEbPQiNf-3yuTX3nq7KOOtI8Oy02Cqy)
 
 In my case, I never had changed my branch name,  ***main*** the default name.
 And when I tried to get ```how to use StackEdit``` in my mother's language,
@@ -70,5 +69,5 @@ Anyway, you all have a nice day!
 
 -2021.06.22-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjMyNTY2NCwyNzYzODY1MzldfQ==
+eyJoaXN0b3J5IjpbMTc5NDEwMjA3NywyNzYzODY1MzldfQ==
 -->
