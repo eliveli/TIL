@@ -9,7 +9,9 @@ and that is me haha :)
 
 In the below I write down the process I met the problem and solve it.
 
-Wirint
+Writing English is not easy for me
+so I write Korean my mother's language
+
 
 
 
@@ -155,11 +157,11 @@ C --> D
 ```
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJjOXVRdFM4MWZURU5jbVV5Ijp7In
-N0YXJ0Ijo0ODEsImVuZCI6NDgyLCJ0ZXh0IjoidSJ9fSwiY29t
+N0YXJ0Ijo1NDksImVuZCI6NTUwLCJ0ZXh0IjoidSJ9fSwiY29t
 bWVudHMiOnsiUnlXWGdWWU5VcVNCVFh0UiI6eyJkaXNjdXNzaW
 9uSWQiOiJjOXVRdFM4MWZURU5jbVV5Iiwic3ViIjoiZ286MTA1
 Mzg3MDIwMjY4MDk5MTYxNDY5IiwidGV4dCI6Imxvb2sgXCJtYX
 N0ZXJcIiIsImNyZWF0ZWQiOjE2MjQzMzA5NjY2MjV9fSwiaGlz
-dG9yeSI6WzE1MTI5MjE4NDQsNDgzODc4MjUxLDQwNDIwMTU0Mi
-wxMDUyMzIxMjU4XX0=
+dG9yeSI6Wzc3NDYxNzM0MSw0ODM4NzgyNTEsNDA0MjAxNTQyLD
+EwNTIzMjEyNThdfQ==
 -->
