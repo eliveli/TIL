@@ -34,8 +34,8 @@ If your repository branch name is 'main', you will see the alert
 
 ![http 404 error](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%803.PNG)
 
-In my case, I never had changed my branch name, was set the defult ***main***
-
+In my case, I never had changed my branch name in my repository,  ***main*** the default name.
+And I tried to search the s
 
 
 
@@ -176,7 +176,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2MTc1MzUxLDY5NDMwMjMzMCwtMTQ4OT
-I2MTUwNSw0ODM4NzgyNTEsNDA0MjAxNTQyLDEwNTIzMjEyNThd
-fQ==
+eyJoaXN0b3J5IjpbLTIwNzc3NTE3ODAsNjk0MzAyMzMwLC0xND
+g5MjYxNTA1LDQ4Mzg3ODI1MSw0MDQyMDE1NDIsMTA1MjMyMTI1
+OF19
 -->
