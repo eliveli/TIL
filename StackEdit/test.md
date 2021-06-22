@@ -52,7 +52,7 @@ First thing is that to input your branch name correctly.
 Second is changing your branch name to ***master***.
 ![change you branch name](file:///C:/Users/user1/Desktop/%EC%9D%B4%EB%AF%B8%EC%A7%805.PNG)
 In your repository, follow the stage.
-[ Setting > Branches > pencil icon( >
+[ Setting > Branches > pencil icon (inside the box) > type "master" > Rename branch ]
 
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
@@ -192,7 +192,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjcyMTk5NCw1NjAxNDM2MDcsLTEyMz
+eyJoaXN0b3J5IjpbMTI4MTk3MTA2Miw1NjAxNDM2MDcsLTEyMz
 A3Nzk1MCwtNzQ1NTM2MzU1LDY5NDMwMjMzMCwtMTQ4OTI2MTUw
 NSw0ODM4NzgyNTEsNDA0MjAxNTQyLDEwNTIzMjEyNThdfQ==
 -->
