@@ -45,7 +45,8 @@ I am beginner in both GitHub and StackEdit,
 and also Korean not English who can get many information easy...
 
 Anyway, I could solve it for two method.
-First thing is that to input your main branch
+First thing is that to input your branch name correctly.
+(If the name
 
 
 
@@ -187,7 +188,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk2OTAxMywtMTIzMDc3OTUwLC03ND
+eyJoaXN0b3J5IjpbMTc4NzA0MDg0NywtMTIzMDc3OTUwLC03ND
 U1MzYzNTUsNjk0MzAyMzMwLC0xNDg5MjYxNTA1LDQ4Mzg3ODI1
 MSw0MDQyMDE1NDIsMTA1MjMyMTI1OF19
 -->
