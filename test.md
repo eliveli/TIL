@@ -10,6 +10,7 @@
         let info_list = ['1', '2', '3', '4', '5', '6', '7', '8']; 
         let card_list = document.getElementsByClassName('card');
         
+        // 카드 클릭 시 실행
         function show_detail(event) {
 	       card = get_card(event)
 	       
