@@ -21,7 +21,7 @@ reducer 이름 바꿔 보면서 작동되나 확인해 보면 좋다고 하셨�
 
 ![dict](https://user-images.githubusercontent.com/60069112/123687729-3c159300-d88c-11eb-8fcb-62fe7a576fbf.png)
 
-~~이제 보니 이름은 똑같이 다 dict라고 설정해 놨었구나. 다만 얘가 어떻게 작동하는 지 몰랐었던 거네...~~
+~~이제 보니 이름은 똑같이 다 dict라고 설정해 놨었구나~~
 + useSelector(state => state.```리듀서이름```)
 
 useSelector로 state에 접근한 후에 리듀서 구분을 해 준 거구나.    
