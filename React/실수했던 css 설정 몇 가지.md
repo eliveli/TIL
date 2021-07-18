@@ -7,7 +7,7 @@ css 설정에 ; 세미콜론 꼭 찍어야 함. 그게 없어서 작동을 안 �
 ```<ul>``` ```<li> ```
 li 의 display 속성이 list-item이 아니면 list-style-type 적용이 안 됨.
 나는 li의 display를 flex로 설정했기 때문에 적용이 안 되었음.
-->
+
 ```
  &::before {
 	content: "·";
