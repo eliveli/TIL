@@ -43,7 +43,7 @@
 html 영역의 clientWidth 와 offsetWidth는 동일한 경우가 있었으나 <br>
   html 영역의 clientHeight 와 offsetHeight는 다르게 나온 경우 있음(브라우저 y축 스크롤 가능, x축 없음)<br>
      이 경우 **html의 clientHeight는 브라우저height와 같았으나**<br>
-               html의 offsetHeight는 html 영역의 전체 height 로 나왔음(보더, 내부x축 스크롤바 없었음)<br>
+               html의 offsetHeight는 html 영역의 전체 height 로 나왔음(보더, 내부x축스크롤바 없음)<br>
               이 때 body의 clientHeight와 offsetHeight는 동일하게 나왔음.<br>
 
 
