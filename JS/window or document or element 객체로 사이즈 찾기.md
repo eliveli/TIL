@@ -1,4 +1,4 @@
-## window & document 객체로 화면or브라우저or다큐먼트 사이즈 찾기
+## window/document/element 객체로 화면/브라우저/html/body/element 사이즈 찾기
 1. element 객체의 property. 특정 요소의 width를 직접 찾을 수 있음
 - element.clientWidth : 요소의 패딩 영역까지
 - element.offsetWidth : 요소의 패딩, 보더, 내부스크롤바까지 포함
@@ -39,7 +39,7 @@
 
 	![윈도우,다큐먼트 사이즈 체크4](https://user-images.githubusercontent.com/60069112/151740520-d0647649-e0c0-4fd7-9836-4bc85256ef32.png)
 
-~~복잡복잡..~~
+~~복잡복잡..~~<br>
 html 영역의 clientWidth 와 offsetWidth는 동일한 경우가 있었으나 <br>
   html 영역의 clientHeight 와 offsetHeight는 다르게 나온 경우 있음(브라우저 y축 스크롤 가능, x축 없음)<br>
      이 경우 html의 clientHeight는 브라우저height와 같았으나<br>
@@ -49,3 +49,5 @@ html 영역의 clientWidth 와 offsetWidth는 동일한 경우가 있었으나 <
 
 헷갈려... 
 화면 전체 모달의 길이가 필요할 때는 그냥 모달 요소의 offsetWidth 잡아서 가져오자. document 객체는 필요할 경우에 써야지
+
+-22.01.31-
